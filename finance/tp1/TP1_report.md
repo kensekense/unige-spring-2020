@@ -23,11 +23,11 @@ Table 2: The months and their appropriate returns.
 
 Annual Return from Monthly:
 
-`0.12`
+* `0.12`
 
 Compared to the sums of the Monthly:
 
-`0.1138661`
+* `0.1138661`
 
 As noted, 12% (0.12) is the correct value, and is calculated according to the formula implemented in the code, as opposed to summing the values from the monthly returns, which would not yield the correct value.
 
@@ -43,6 +43,34 @@ Table 3: Average Monthly Return
 
 Average of the monthly returns is:
 
-`0.00875893`
+* `0.00875893`
 
 ### Portfolio of Microsoft and Starbucks stock
+
+###### 1. Compute the initial value of the portfolio
+Since there is not a return to consider, the initial value of the portfolio will be the capital invested in the portfolio, which will be:
+* `10($85) + 10($30) = $1150`
+
+###### 2. Compute the portfolio shares
+
+
+###### 3. Compute the one-period return of Microsoft and Starbucks stocks
+* Microsoft one-period return: `90-85/85 = 0.05882353`
+* Starbucks one-period return: `28-30/30 = 0.06666667`
+
+###### 4. Compute the return of the portfolio and its value at end of month t
+
+
+### Two Random Variables
+
+###### 1. The E[X] is the expected value of X, or the most likely value X can take:
+
+
+###### 2. E[X|Y = 0] is the expected value of X or the most likely value X can take, given that Y is equal to 0.
+* `0.3`
+
+###### 3. Var[X|Y = 0] is
+
+### Wiki-Culture
+Stock: in general, a stock is a share of ownership in a company. It usually indicates the fraction of earnings that the stockholder (owner of the stock) is entitled to. There are different types of stocks, some of which may or may not have different privileges related to the company, such as voting rights.
+Bond: a form of a loan/IOU, where the issuer of the bond is the borrower, and the holder of the bond is the lender. Bonds usually have some sort of interest attached, and it specifies that at a later date, when the bond is paid back, how much additional value will be added on top of the original.
