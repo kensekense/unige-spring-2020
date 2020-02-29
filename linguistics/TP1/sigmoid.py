@@ -42,7 +42,7 @@ def test_sigmoid():
     """
     print('Running your tests...')
     # YOUR CODE HERE
-    
+
 
 if __name__ == '__main__':
     test_sigmoid_basic()
