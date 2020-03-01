@@ -57,3 +57,10 @@ print(sum(x))
 z <- seq(1,12)
 print(z/12)
 print(mean(x))
+
+#expected value of x
+print(2*0.4*0.2*0.6*0.2+3*0.2*0.6*0.4*0.2*0.4*0.4+2*0.6*0.2*0.2*0.4+1*0.6*0.4)
+
+#var(x|y=0)
+x <- c(0.2,0.1,0.0,0.3)
+print(var(x))
