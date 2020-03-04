@@ -25,7 +25,7 @@ def gradcheck_naive(f, x):
         ### possible to test cost functions with built in randomness later
 
         ### YOUR CODE HERE:
-        
+
 
         # Compare gradients
         reldiff = abs(numgrad - grad[ix]) / max(1, abs(numgrad), abs(grad[ix]))
