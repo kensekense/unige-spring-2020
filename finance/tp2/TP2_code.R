@@ -25,3 +25,27 @@ plot(x, type='l')
 T = 100;
 x <- rnorm(100) + sin(2*pi*1:100/T);
 plot(x, type='l')
+
+#read the priceM.dat file as a table, location will vary
+
+ret <- function(x){
+  i = 1
+  rets <- c()
+
+  for(val in x){
+    if (i == 1){
+      calc <- 0
+    }
+    else{
+      calc <- (x[i]-x[i-1])/x[i-1] #returns
+    }
+    rets <- c(rets, calc)
+    i = i+1
+  }
+  return(rets)
+}
+
+tab <- read.table("C:/Users/liveo/Desktop/playground/unige-spring-2020/finance/tp2/priceM.dat")
+tab[[1]] = tab[[1]]/1000
+
+ar(tab[[2]])

@@ -16,6 +16,6 @@ Image 1: Graph of X vs Y
 The slope is trending positively, and looks close to a slope of 1. This reflects well with the fact that the correlation between X and Y was calculated to be `0.8591271`, which is close to 1, but is not the same.
 
 ### 2. Hidden Sine
-
+//Explain the graphs
 
 ### 3. Modeling empirical series
