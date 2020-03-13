@@ -10,7 +10,7 @@ G = rgb2gray(I);
 % 1. EMBED A SECRET MESSAGE INTO THE LSB PLANE                            %
 %-------------------------------------------------------------------------%
 
-% We want to embed this message in the LSB plane 
+% We want to embed this message in the LSB plane
 planes = zeros(rows,cols,8);
 for i=1:8
     planes(:,:,i) = bitget(G,i);
@@ -69,5 +69,3 @@ recovered_msg = LSBplane_mod( embed_pos(1:L) )';
 
 % Compute the number of errors in reconstruction
 errors = sum( xor( binary_msg, recovered_msg) );
-
-
