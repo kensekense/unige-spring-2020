@@ -8,7 +8,7 @@ tab$timestamp = as.POSIXct(tab$timestamp, origin="1970-01-01")
 seg <- trunc(range(tab$timestamp), "hours")
 
 #we can use sequences and use by = "15 min" which is recognized by R
-breaks <- seq(seg[1], seg[2]+3600, by="15min")
+breaks <- seq(seg[1], seg[2]+3600, by="15 min")
 
 #histogram
 hist(tab$timestamp, breaks=breaks, main="EUR_USD Daily Distribution")
