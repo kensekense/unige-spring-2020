@@ -86,6 +86,7 @@ testing_names = names(testing_set);
 
 % Prepare training features
 TRN_cover = C(training_set,:);
+TRN_cover = TRN_cover + sqrt(10)*randn(size(TRN_cover));%adding noise
 TRN_stego = S(training_set,:);
 
 % Prepare testing features
