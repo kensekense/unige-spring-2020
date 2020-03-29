@@ -122,3 +122,54 @@ figure,
   subplot(1,3,1), imagesc(XX), colormap(gray),axis off , title('Color image I');
   subplot(1,3,2), imagesc(gradient_c(:,:,1)), colormap(gray),axis off , title('|\nabla I|');
   subplot(1,3,3), imagesc(angle_c(:,:,1)), colormap(gray),axis off , title('\theta');
+  
+ 
+
+%second and third steps here
+img = imread('Tower.bmp');
+rc = img(:,:,1); % red
+gc = img(:,:,2); % green
+bc = img(:,:,3); % blue
+secretr = round(rand(size(rc)));
+secretg = round(rand(size(gc)));
+secretb = round(rand(size(bc)));
+
+[rows, cols] = size(rc);
+planesr = zeros(rows,cols,8);
+planesg = zeros(rows,cols,8);
+planesb = zeros(rows,cols,8);
+
+for i=1:8
+    planesr(:,:,i) = bitget(rc,i);
+    planesg(:,:,i) = bitget(gc,i);
+    planesb(:,:,i) = bitget(bc,i);
+end
+
+planesr(:,:,1) = secretr;
+planesg(:,:,1) = secretg;
+planesb(:,:,1) = secretb;
+
+% Reconstruct
+for i=1:size(planesr,1)
+    for j=1:size(planesr,2)
+        binaryPixelr = planesr(i,j,:);
+        binaryPixelg = planesg(i,j,:);
+        binaryPixelb = planesb(i,j,:);
+        
+        binaryPixelr = reshape(binaryPixelr,1,length(binaryPixelr),1);
+        binaryPixelg = reshape(binaryPixelg,1,length(binaryPixelg),1);
+        binaryPixelb = reshape(binaryPixelb,1,length(binaryPixelb),1);
+        
+        stegor(i,j) = bi2de(binaryPixelr);
+        stegog(i,j) = bi2de(binaryPixelg);
+        stegob(i,j) = bi2de(binaryPixelb);
+    end
+end
+stegor = uint8(stegor);
+stegog = uint8(stegog);
+stegob = uint8(stegob);
+
+stego1 = cat(3, stegor, stegog, stegob);
+
+figure,
+  imagesc(stego1), title('stego1');
