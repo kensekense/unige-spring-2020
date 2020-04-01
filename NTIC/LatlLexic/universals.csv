@@ -1,0 +1,1563 @@
+ABC0;0;AbstractCase;;nominative;nominative;
+ABC1;1;AbstractCase;;accusative;accusative;
+ABC2;2;AbstractCase;;dative;dative;
+ABC3;3;AbstractCase;;genitive;genitive;
+ABC4;4;AbstractCase;;locative;locative;
+ABC5;5;AbstractCase;;distributive;distributive;
+ADF0;0;AdjectiveForm;de;form0;form0;
+ADF1;1;AdjectiveForm;de;formE;formE;
+ADF2;2;AdjectiveForm;de;formEM;formEM;
+ADF3;3;AdjectiveForm;de;formEN;formEN;
+ADF4;4;AdjectiveForm;de;formER;formER;
+ADF5;5;AdjectiveForm;de;formES;formES;
+ADP21;21;AdpositionType;;preposition;preposition;mit
+ADP22;22;AdpositionType;;postPosition;postPosition;willen
+ADP23;23;AdpositionType;;circumPosition;circumPosition;an
+ADP24;24;AdpositionType;;pronominalPrep;pronominalPrep;darauf
+ADP26;26;AdpositionType;;complexPrep;complexPrep;anhand (von)
+ADP27;27;AdpositionType;;doubleComplexPrep;doubleComplexPrep;von  (bis)
+ADP28;28;AdpositionType;;vonComplP;vonComplP;nordlich von
+ADP29;29;AdpositionType;;zuComplP;zuComplP;in vergleich zu
+ADV0;0;AdverbType;;advNegation;Negation;not
+ADV1;1;AdverbType;fr,it,es;advNegationParticle;NegationParticle;fr. ne
+ADV2;2;AdverbType;fr;advInterrogativeParticle;InterrogativeParticle;est-ce que
+ADV3;3;AdverbType;;advInterrogative;Interrogative;when, why
+ADV4;4;AdverbType;;advStandard;Standard;always
+ADV5;5;AdverbType;;advSentential;Sentential;cependant
+ADV6;6;AdverbType;en;advNominalCompound;NominalCompound;everywhere that I put it
+ADV7;7;AdverbType;en;advDP;DP;three years
+AFE0;0;AdjectiveFeature;;toughAdj;tough;difficult
+AFE1;1;AdjectiveFeature;;colourAdj;colour;blue
+AFE17;17;AdjectiveFeature;de;otherAdj;other;
+AFE18;18;AdjectiveFeature;;sSubject;sSubject;sujet phrase: faire du ski est sympa
+AFE19;19;AdjectiveFeature;;nonPredicativeAdj;nonPredicative;
+AFE2;2;AdjectiveFeature;;interrogativeAdj;interrogative;how
+AFE20;9;AdjectiveFeature;;presentParticiple;presentParticiple;
+AFE21;10;AdjectiveFeature;;perfectParticiple;perfectParticiple;
+AFE22;20;AdjectiveFeature;de;postnominalAdj;postnominal;ein Gesetzt à la carte
+AFE23;21;AdjectiveFeature;;syntheticMorphAdj;syntheticMorphAdj;easy, easier, easiest
+AFE24;22;AdjectiveFeature;;wh_sSubject;wh_sSubject;what to do is clear
+AFE25;23;AdjectiveFeature;;ordinalNumber;ordinalNumber;
+AFE3;3;AdjectiveFeature;;subcatAdj;subcat;proud
+AFE4;4;AdjectiveFeature;;stativeAdj;stative;tall
+AFE5;5;AdjectiveFeature;;nonStativeAdj;nonStative;stupid
+AFE6;6;AdjectiveFeature;;gradableAdj;gradable;small
+AFE7;7;AdjectiveFeature;en;predeterminerAdj;predeterminer;
+AFE8;8;AdjectiveFeature;en,fr,it,es,pt;tempAdj;temp;
+AFF11;11;AdjectiveFeature;;quantificationAdj;quantification;nombreux, tel
+AFF12;12;AdjectiveFeature;;formuleAdj;formule;
+AFF17;17;AdjectiveFeature;fr;seulAdj;seul;
+AFF7;7;AdjectiveFeature;fr,it,es,pt;prenominalAdj;prenominal;fr. petit
+AFP20;20;AdjectiveFeature;pt;seulAdj;sóAdj;
+AFS17;17;AdjectiveFeature;es,pt;otroAdj;otro;
+AIE0;0;AdjectiveInflection;;irregular;irregular;
+AIE-1;-1;AdjectiveInflection;;no inflection;no inflection;
+AIE1;1;AdjectiveInflection;en;A_1;invariable;
+AIE-2;-2;AdjectiveInflection;;undefinedInflection;not yet defined;
+AIE2;2;AdjectiveInflection;en;A_2;synthetic comparative;
+AIE3;3;AdjectiveInflection;en;A_3;irregular comparative;
+AIF1;1;AdjectiveInflection;fr;A_1;1.réguliers avec 4 formes ( -, -e,-s,-es)  plat-plate-plats-plates;plat-plate-plats-plates
+AIF10;10;AdjectiveInflection;fr;A_10;10. en -/-uë  aigu-aiguë-aigus-aiguës;aigu-aiguë-aigus-aiguës
+AIF11;11;AdjectiveInflection;fr;A_11;11. en -et/-ète secret, secrète;secret, secrète
+AIF12;12;AdjectiveInflection;fr;A_12;12. invariable;super, high-tech
+AIF2;2;AdjectiveInflection;fr;A_2;2. en -x (-,se,-,ses) haineux-haineuse-haineux-haineuses;haineux-haineuse-haineux-haineuses
+AIF3;3;AdjectiveInflection;fr;A_3;3. en -al/-aux  loyal-loyale-loyaux-loyales;loyal-loyale-loyaux-loyales
+AIF4;4;AdjectiveInflection;fr;A_4;4. en -eau/-elle  beau-belle-beaux-belles;beau-belle-beaux-belles
+AIF5;5;AdjectiveInflection;fr;A_5;5. en -ieux/-ielle  vieux-vieille-vieux-vieilles;vieux-vieille-vieux-vieille
+AIF6;6;AdjectiveInflection;fr;A_6;6. en -s/-sse bas-basse-bas-basses;bas-basse-bas-basses
+AIF7;7;AdjectiveInflection;fr;A_7;7. en -s/-se  précis-précise-précis-précises;précis-précise-précis-précises
+AIF8;8;AdjectiveInflection;fr;A_8;8. réguliers en -e (mas, fém) jeune-jeunes;jeune-jeunes
+AIF9;9;AdjectiveInflection;fr;A_9;9. en -eur/-rice consolateur-consolatrice-consolateurs-consolatrices;consolateur-consolatrice-consolateurs-consolatrices
+AIG1;1;AdjectiveInflection;de;1;[1] attributiv und prädikativ verwendete Adjektive (heftig, wichtig);heftig, wichtig, gross
+AIG2;2;AdjectiveInflection;de;2;[2] nur attributiv verwendete Adjektive (obere, linkere);obere, linkere
+AIG3;3;AdjectiveInflection;de;3;[3] nur prädikativ verwendete Adjektive (quitt, pleite);quitt, pleite
+AIG4;4;AdjectiveInflection;de;4;[4] unveränderliche Adjektive (rosa, zweierlei);rosa, zweierlei
+AIG5;5;AdjectiveInflection;de;5;[5] Kardinalzahlen (fünf, hundert);fünf, hundert, einundsiebzig
+AIG6;6;AdjectiveInflection;de;6;[6] Ordinalzahlen (zweite, zwanzigste);zweite, zwanzigste, hundertste
+AII0;1;AdjectiveInflection;it;A_1;[1] -"o", -"a", -"i", -"e";bello, amico, largo, 
+AII1;2;AdjectiveInflection;it;A_2;[2] -"e", -"i";felice, dolce, 
+AII2;3;AdjectiveInflection;it;A_3;[3] -"co", -"ca", -"ci", -"che";magnifico, teorico, 
+AII3;4;AdjectiveInflection;it;A_4;[4] invariable;pari, viola, 
+AII4;5;AdjectiveInflection;it;A_5;[5] -"a", pl en -i (masc) et -e (fém);marxista, marxisti, marxiste
+AII5;6;AdjectiveInflection;it;A_6;[6] -"tore", -"trice" conservatore, conservatrice;conservatore - conservatrice
+AII6;7;AdjectiveInflection;it;A_7;[7] -o, -a, -i, -e + superlatif;bello-bella/bellissimo-bellissima
+AII7;8;AdjectiveInflection;it;A_8;[8] -e, -i + superlatif;dolce-dolci/dolcissimo-a-i-e
+AII8;9;AdjectiveInflection;it;A_9;[9] -co, -ca, -chi, -che + superlatif;
+AII9;10;AdjectiveInflection;it;A_10;[10] invariable + superlatif;
+AIL1;1;AdjectiveInflection;la;A_1;1. adjectifs de 1ere classe - bonus, a, um;
+AIL2;2;AdjectiveInflection;la;A_2;2. parisyllabiques - similis, is, e;
+AIL3;22;AdjectiveInflection;la;A_22;22. imparisyllabiques - vetus, veteris;
+AIL4;21;AdjectiveInflection;la;A_21;21. type spécial - prudens, prudentis;
+AIO1;1;AdjectiveInflection;eo;A_1;[1] inflclass 1;
+AIP1;1;AdjectiveInflection;pt;A_1;[1] réguliers avec 4 formes (o, os, a, as);
+AIP10;10;AdjectiveInflection;pt;A_10;[10] -eu/eia -- europeu/europeus, europeia/europeias + superlatif;
+AIP11;11;AdjectiveInflection;pt;A_11;[11] -ão -- folgazão/folgazãos, folgazã/folgazãs;
+AIP12;12;AdjectiveInflection;pt;A_12;[12] -ão -- folgazão/folgazãos, folgazã/folgazãs + superlatif;
+AIP13;13;AdjectiveInflection;pt;A_13;[13] -ão -- alemão/alemães, alemã/alemãs;
+AIP14;14;AdjectiveInflection;pt;A_14;[14] -ão -- alemão/alemães, alemã/alemãs + superlatif;
+AIP15;15;AdjectiveInflection;pt;A_15;[15] -ão -- comilão/comilões, comilona/comilonas;
+AIP16;16;AdjectiveInflection;pt;A_16;[16] -ão -- comilão/comilões, comilona/comilonas + superlatif;
+AIP17;17;AdjectiveInflection;pt;A_17;[17] -es -- francês/franceses, francesa/francesas;
+AIP18;18;AdjectiveInflection;pt;A_18;[18] -es -- francês/franceses, francesa/francesas + superlatif;
+AIP19;19;AdjectiveInflection;pt;A_19;[19]  2 genres -- anual/anuais, aparente/aparentes;
+AIP2;2;AdjectiveInflection;pt;A_2;[2] réguliers avec 4 formes (o, os, a, as) + superlatif;
+AIP20;20;AdjectiveInflection;pt;A_20;[20]  2 genres -- anual/anuais, aparente/aparentes + superlatif;
+AIP21;21;AdjectiveInflection;pt;A_21;[21] adjectifs invariables;
+AIP22;22;AdjectiveInflection;pt;A_22;[22] adjectifs invariables + superlatif;
+AIP23;23;AdjectiveInflection;pt;A_23;[23] adjectifs en ão -- aldeão-aldeã, aldeões-aldeãs;
+AIP3;3;AdjectiveInflection;pt;A_3;[3] -or -- impostor/impostores, impostora/impostoras;
+AIP4;4;AdjectiveInflection;pt;A_4;[4] -or -- impostor/impostores, impostora/impostoras + superlatif;
+AIP5;5;AdjectiveInflection;pt;A_5;[5] -tor/dor-triz -- ator/atores, atriz/atrize;
+AIP6;6;AdjectiveInflection;pt;A_6;[6] -tor/dor-triz -- ator/atores, atriz/atrizes + superlatif;
+AIP7;7;AdjectiveInflection;pt;A_7;[7] -or/eira -- cantador/cantadores, cantadeira/cantadeiras;
+AIP8;8;AdjectiveInflection;pt;A_8;[8] -or/eira -- cantador/cantadores, cantadeira/cantadeiras + superlatif;
+AIP9;9;AdjectiveInflection;pt;A_9;[9] -eu/eia -- europeu/europeus, europeia/europeias;
+AIR0;1;AdjectiveInflection;rm;1;réguliers et adjs en -gl et -gn et -gen (cauld, nausch, vegl);cauld, nausch, vegl, cert, cuort, muntagnard, liung, sogn, pign
+AIR1;2;AdjectiveInflection;rm;2;syncope -el > -la, -er > -ra, -en > na, -al > la, -an > na (giuven, pusseivel);giuven, pusseivel, pauper, naven, malnizeivel, viscal
+AIR10;15;AdjectiveInflection;rm;15;multibase avec redoublement de la consonne finale (tschocs/tschiec/tschocca);tschocs/tschiec/tschocca
+AIR2;3;AdjectiveInflection;rm;3;invariables (bunmarcau, aparti, oranscha);bunmarcau, aparti, endretg, oranscha, lila, rosa, davos, sisum
+AIR3;4;AdjectiveInflection;rm;4;féminin palatalisé comme forme alternative (neidi, schelb, selbadi, tievi);neidi, schelb, selbadi, tievi
+AIR4;5;AdjectiveInflection;rm;5;redoublement de la consonne finale et n > nt (plat, scret, con);rut, plat, scret, con, ton, tanien
+AIR5;8;AdjectiveInflection;rm;8;participe passé -au/-ada (cumplicau, divorziau);cumplicau, divorziau
+AIR6;9;AdjectiveInflection;rm;9;participe passé -iu/-ida (deprimiu, preferiu);deprimiu, preferiu
+AIR7;11;AdjectiveInflection;rm;11;multibase "régulier" (storts/stiert, buns/bien, bials/bi);storts/stiert, schliats/schliet, macorts/mitgiert, buns/bien, bials/bi, biars/bi
+AIR8;16;AdjectiveInflection;rm;16;comme 11, mais la racine 1 termine en -s (gross/gries);gross/gries
+AIR9;12;AdjectiveInflection;rm;12;multibase avec syncope (nobels/niebel, cotschens/tgietschen);nobels/niebel, cotschens/tgietschen
+AIS1;1;AdjectiveInflection;es;A_1;1.-o, -a, -os, -as (blanco);
+AIS2;2;AdjectiveInflection;es;A_2;2.-, -, -es, -es (feliz);
+AIS3;3;AdjectiveInflection;es;A_3;3.-, -a, -es, -as (holgazan);
+AIS4;4;AdjectiveInflection;es;A_4;4.-, -, -s, -s (marroquí);
+AIS5;5;AdjectiveInflection;es;A_5;5.invariable;
+AIS6;6;AdjectiveInflection;es;A_6;6.-, -, -s, -s regular (entrante(s), nacionalista(s));
+ALI0;0;AuxiliaryType;la;esse;esse;
+AUE0;0;AuxiliaryType;en;be;be;
+AUE1;1;AuxiliaryType;en;have;have;
+AUE2;2;AuxiliaryType;en;get;get;
+AUE3;3;AuxiliaryType;en;let;let;
+AUF0;0;AuxiliaryType;fr;etre;etre;
+AUF1;1;AuxiliaryType;fr;avoir;avoir;
+AUF18;18;AuxiliaryType;fr;êtreVerb;êtreVerb;pour marquer le verbe être
+AUG0;0;AuxiliaryType;de;sein;sein;
+AUG1;1;AuxiliaryType;de;haben;haben;
+AUG2;2;AuxiliaryType;de;werden;werden;
+AUI0;0;AuxiliaryType;it;essere;essere;
+AUI1;1;AuxiliaryType;it;avere;avere;
+AUI2;2;AuxiliaryType;it;venire;venire;
+AUI3;3;AuxiliaryType;it;andare;andare;
+AUP0;0;AuxiliaryType;pt;haverAuxiliary;haverAuxiliary;
+AUP1;1;AuxiliaryType;pt;terAuxiliary;terAuxiliary;
+AUP2;2;AuxiliaryType;pt;serAuxiliary;serAuxiliary;
+AUS0;0;AuxiliaryType;es;haberAuxiliary;haberAuxiliary;
+AUS1;1;AuxiliaryType;es;serAuxiliary;serAuxiliary;
+AUS2;2;AuxiliaryType;es;estarAuxiliary;estarAuxiliary;
+AVE25;25;AdverbFeature;fr;comparatifPlus;comparatifPlus;
+AVE26;26;AdverbFeature;fr;comparatifMoins;comparatifMoins;
+AVF0;0;AdverbFeature;;advInversion;Inversion;permet l'inversion du sujet: sans doute faut-il¿
+AVF1;1;AdverbFeature;;advCPque;CP;heureusement qu'il¿, never mind that
+AVF2;2;AdverbFeature;;negativePolarity;negativePolarity;not yet
+AVF27;25;AdverbFeature;en;superlativeMost;superlativeMost;
+AVF28;26;AdverbFeature;en;superlativeLeast;superlativeLeast;
+AVF29;27;AdverbFeature;fr;comparatifAussi;comparatifAussi;
+AVF3;3;AdverbFeature;;advPostPosition;advPostPosition;long enough
+AVF30;28;AdverbFeature;fr;comparatifAutant;comparatifAutant;
+AVF6;6;AdverbFeature;;advPour;advPour;
+BEP0;0;BasicPreposition;en;about;about;
+BEP-1;-1;BasicPreposition;;pOther;notABasicPrep;i.e. not a basic preposition
+BEP1;30;BasicPreposition;en;around;around;
+BEP10;6;BasicPreposition;en;from;from;
+BEP11;8;BasicPreposition;en;in;in;
+BEP12;9;BasicPreposition;en;into;into;
+BEP13;7;BasicPreposition;en;like;like;
+BEP14;12;BasicPreposition;en;on;on;
+BEP15;10;BasicPreposition;en;of;of;
+BEP16;11;BasicPreposition;en;off;off;
+BEP17;31;BasicPreposition;en;onto;onto;
+BEP18;13;BasicPreposition;en;over;over;
+BEP19;26;BasicPreposition;en;outOf;out of;
+BEP2;2;BasicPreposition;en;after;after;
+BEP20;29;BasicPreposition;en;past;past;
+BEP21;25;BasicPreposition;en;among;among;
+BEP22;22;BasicPreposition;en;against;against;
+BEP23;15;BasicPreposition;en;since;since;
+BEP24;16;BasicPreposition;en;till;till;
+BEP25;14;BasicPreposition;en;to;to;
+BEP26;24;BasicPreposition;en;through;through;
+BEP27;33;BasicPrepositions;en;toward;toward;
+BEP28;17;BasicPreposition;en;under;under;
+BEP29;19;BasicPreposition;en;until;until;
+BEP3;21;BasicPreposition;en;as;as;
+BEP30;18;BasicPreposition;en;up;up;
+BEP31;23;BasicPreposition;en;upon;upon;
+BEP32;20;BasicPreposition;en;with;with;
+BEP33;32;BasicPrepositions;en;within;within;
+BEP4;1;BasicPreposition;en;at;at;
+BEP5;28;BasicPreposition;en;behind;behind;
+BEP6;27;BasicPreposition;en;between;between;
+BEP7;5;BasicPreposition;en;for;for;
+BEP8;3;BasicPreposition;en;by;by;
+BEP9;4;BasicPreposition;en;down;down;
+BFP0;0;BasicPreposition;fr;a;à;
+BFP1;18;BasicPreposition;fr;aBoutDe;à bout de;
+BFP10;15;BasicPreposition;fr;envers;envers;
+BFP11;16;BasicPreposition;fr;devant;devant;
+BFP12;19;BasicPreposition;fr;autour;autour;
+BFP13;1;BasicPreposition;fr;avant;avant;
+BFP14;11;BasicPreposition;fr;par;par;
+BFP15;9;BasicPreposition;fr;sous;sous;
+BFP16;7;BasicPreposition;fr;pour;pour;
+BFP17;8;BasicPreposition;fr;sans;sans;
+BFP18;10;BasicPreposition;fr;sur;sur;
+BFP19;14;BasicPreposition;fr;vers;vers;
+BFP2;12;BasicPreposition;fr;avec;avec;
+BFP3;13;BasicPreposition;fr;comme;comme;
+BFP4;2;BasicPreposition;fr;contre;contre;
+BFP5;3;BasicPreposition;fr;dans;dans;
+BFP6;4;BasicPreposition;fr;de;de;
+BFP7;5;BasicPreposition;fr;en;en;
+BFP8;17;BasicPreposition;fr;enRaisonDe;en raison de;
+BFP9;6;BasicPreposition;fr;entre;entre;
+BGP0;31;BasicPreposition;de;pAls;als;
+BGP1;0;BasicPreposition;de;pAn;an;
+BGP10;21;BasicPreposition;de;pGegenüber;gegenüber;
+BGP11;22;BasicPreposition;de;pGemäss;gemäss;
+BGP12;23;BasicPreposition;de;pHinter;hinter;
+BGP13;7;BasicPreposition;de;pIn;in;
+BGP14;8;BasicPreposition;de;pMit;mit;
+BGP15;9;BasicPreposition;de;pNach;nach;
+BGP16;24;BasicPreposition;de;pNeben;neben;
+BGP17;10;BasicPreposition;de;pOb;ob;
+BGP18;11;BasicPreposition;de;pOhne;ohne;
+BGP19;12;BasicPreposition;de;pSeit;seit;
+BGP2;1;BasicPreposition;de;pAuf;auf;
+BGP20;25;BasicPreposition;de;pStatt;statt;
+BGP21;26;BasicPreposition;de;pTrozt;trozt;
+BGP22;13;BasicPreposition;de;pÜber;über;
+BGP23;14;BasicPreposition;de;pUm;um;
+BGP24;15;BasicPreposition;de;pUnter;unter;
+BGP25;16;BasicPreposition;de;pVon;von;
+BGP26;17;BasicPreposition;de;pVor;vor;
+BGP27;27;BasicPreposition;de;pWegen;wegen;
+BGP28;28;BasicPreposition;de;pWider;wider;
+BGP29;18;BasicPreposition;de;pZu;zu;
+BGP3;2;BasicPreposition;de;pAus;aus;
+BGP30;29;BasicPreposition;de;pZufolge;zufolge;
+BGP31;30;BasicPreposition;de;pZwischen;zwischen;
+BGP4;19;BasicPreposition;de;pAusser;ausser;
+BGP5;3;BasicPreposition;de;pBei;bei;
+BGP6;4;BasicPreposition;de;pDurch;durch;
+BGP7;20;BasicPreposition;de;pEntsprechend;entsprechend;
+BGP8;5;BasicPreposition;de;pFür;für;
+BGP9;6;BasicPreposition;de;pGegen;gegen;
+BIE3;3;BilingualFeature;en;byPP;byPP;
+BIF0;0;BilingualFeature;;negation;negation;e.g. irrelevant <-> NON pertinent
+BIF1;1;BilingualFeature;;passive;passive;
+BIF10;10;BilingualFeature;;adjectifNominalisé;adjectifNominalisé;
+BIF11;11;BilingualFeature;;participePresent;participePrésent;bewundernd <-> admiratif
+BIF12;12;BilingualFeature;;pronominalReading;pronominalReading;
+BIF13;13;BilingualFeature;;causative;causative;turn (v.t.) -> faire tourner
+BIF14;14;BilingualFeature;en;again;Verb again;focus again
+BIF2;2;BilingualFeature;;pluralForm;pluralForm;
+BIF3;3;BilingualFeature;fr;àPP;àPP;
+BIF4;4;BilingualFeature;fr;avecPP;avecPP;
+BIF5;5;BilingualFeature;fr;dePP;dePP;
+BIF6;6;BilingualFeature;fr;enPP;enPP;e.g. messy <-> EN désordre
+BIF7;7;BilingualFeature;fr;parPP;parPP;
+BIF8;8;BilingualFeature;fr;sansPP;sansPP;
+BIF9;9;BilingualFeature;es;enteAdverb;enteAdverb;adjectif féminin + ente
+BIP0;1;BasicPreposition;it;aP;a;
+BIP1;9;BasicPreposition;it;altroP;altro;
+BIP10;13;BasicPreposition;it;proP;pro;
+BIP11;11;BasicPreposition;it;senzaP;senza;
+BIP12;15;BasicPreposition;it;sottoP;sotto;
+BIP13;5;BasicPreposition;it;suP;su;
+BIP14;7;BasicPreposition;it;traP;tra;
+BIP15;16;BasicPreposition;it;versoP;verso;
+BIP16;12;BasicPreposition;it;viaP;via;
+BIP2;10;BasicPreposition;it;comeP;come;
+BIP3;4;BasicPreposition;it;conP;con;
+BIP4;14;BasicPreposition;it;controP;contro;
+BIP5;2;BasicPreposition;it;daP;da;
+BIP6;0;BasicPreposition;it;diP;di;
+BIP7;8;BasicPreposition;it;fraP;fra;
+BIP8;3;BasicPreposition;it;inP;in;
+BIP9;6;BasicPreposition;it;perP;per;
+BLP0;0;BasicPreposition;la;abP;ab;petere ab, accipere ab, prohibere ab, dividere ab, poscere ab
+BLP1;1;BasicPreposition;la;adP;ad;hortari ad, pertinere ad
+BLP2;2;BasicPreposition;la;cumP;cum;pugnare cum, certare cum, loqueri cum
+BLP3;3;BasicPreposition;la;deP;de;celare aliquem de aliqua re, gratulari alicui de aliqua re
+BLP4;4;BasicPreposition;la;exP;ex;superesse ex, quaerere ex
+BLP5;5;BasicPreposition;la;inP;in;animadvertere in (+ acc), versari in (+ abl)
+BLP6;6;BasicPreposition;la;proP;pro;dicere pro
+BPP0;0;BasicPreposition;pt;a;a;
+BPP1;1;BasicPreposition;pt;ante;ante;
+BPP10;9;BasicPreposition;pt;em;em;
+BPP11;10;BasicPreposition;pt;entre;entre;
+BPP12;11;BasicPreposition;pt;para ;para ;
+BPP13;12;BasicPreposition;pt;perante;perante;
+BPP14;13;BasicPreposition;pt;por;por;
+BPP15;14;BasicPreposition;pt;sem;sem;
+BPP16;15;BasicPreposition;pt;sob;sob;
+BPP17;16;BasicPreposition;pt;sobre;sobre;
+BPP18;17;BasicPreposition;pt;trás;trás;
+BPP2;5;BasicPreposition;pt;após;após;
+BPP3;2;BasicPreposition;pt;até;até;
+BPP4;3;BasicPreposition;pt;baixo;baixo;
+BPP5;4;BasicPreposition;pt;com;com;
+BPP6;18;BasicPreposition;pt;como;como;
+BPP7;6;BasicPreposition;pt;contra;contra;
+BPP8;7;BasicPreposition;pt;de;de;
+BPP9;8;BasicPreposition;pt;desde;desde;
+BRP0;0;BasicPreposition;rm;a;a;
+BRP1;1;BasicPreposition;rm;cun;cun;
+BRP2;2;BasicPreposition;rm;da;da;
+BRP3;3;BasicPreposition;rm;en;en;
+BRP4;4;BasicPreposition;rm;per;per;
+BRP5;5;BasicPreposition;rm;sin;sin;
+BRP6;6;BasicPreposition;rm;sper;sper;
+BRP7;7;BasicPreposition;rm;sur;sur;
+BRP8;8;BasicPreposition;rm;tier;tier;
+BRP9;9;BasicPreposition;rm;tras;tras;
+BSP0;0;BasicPreposition;es;a;a;
+BSP1;1;BasicPreposition;es;ante;ante;
+BSP10;10;BasicPreposition;es;hasta;hasta;
+BSP11;11;BasicPreposition;es;para;para;
+BSP12;12;BasicPreposition;es;por;por;
+BSP13;13;BasicPreposition;es;según;según;
+BSP14;14;BasicPreposition;es;sin;sin;
+BSP15;15;BasicPreposition;es;sobre;sobre;
+BSP16;16;BasicPreposition;es;tras;tras;
+BSP17;17;BasicPreposition;es;debajoDe;debajoDe;
+BSP18;18;BasicPreposition;es;encimaDe;encimaDe;
+BSP19;19;BasicPreposition;es;alrededorDe;alrededorDe;
+BSP2;2;BasicPreposition;es;bajo;bajo;
+BSP20;20;BasicPreposition;es;detrásDe;detrásDe;
+BSP21;21;BasicPreposition;es;delanteDe;delanteDe;
+BSP22;22;BasicPreposition;es;dentroDe;dentroDe;
+BSP23;23;BasicPreposition;es;fueraDe;fueraDe;
+BSP24;24;BasicPreposition;es;cercaDe;cercaDe;
+BSP25;25;BasicPreposition;es;lejosDe;lejosDe;
+BSP26;26;BasicPreposition;es;alLadoDe;alLadoDe;
+BSP27;27;BasicPreposition;es;aTravésDe;aTravésDe;
+BSP28;28;BasicPreposition;es;antesDe;antesDe;
+BSP29;29;BasicPreposition;es;despuésDe;despuésDe;
+BSP3;3;BasicPreposition;es;con;con;
+BSP30;30;BasicPreposition;es;aPesarDe;aPesarDe;
+BSP31;31;BasicPreposition;es;como;como;
+BSP4;4;BasicPreposition;es;contra;contra;
+BSP5;5;BasicPreposition;es;de;de;
+BSP6;6;BasicPreposition;es;desde;desde;
+BSP7;7;BasicPreposition;es;en;en;
+BSP8;8;BasicPreposition;es;entre;entre;
+BSP9;9;BasicPreposition;es;hacia;hacia;
+CAS0;0;Case;;nominative;nom;
+CAS1;1;Case;;accusative;acc;
+CAS10;10;Case;it;impersonalClitic;impersonalClitic;
+CAS2;2;Case;;dative;dat;
+CAS3;3;Case;;genitive;gen;
+CAS4;4;Case;;locative;locative;
+CAS5;5;Case;;distributive;distributive;
+CAS6;6;Case;;vocative;vocative;
+CAS7;7;Case;;ablative;ablative;
+CAS8;8;Case;it;reflexiveClitic;reflexiveClitic;
+CAS9;9;Case;it;partitiveClitic;partitiveClitic;
+CAT0;0;Category;;N;N;
+CAT1;1;Category;;V;V;
+CAT11;11;Category;es,fr,it,pt;clitic;clitic;
+CAT13;13;Category;fr,de,it.pt;other;other;autre catégorie
+CAT14;14;Category;;CompoundChunk;*;non-mot: marque une partie initiale d'un mot composé
+CAT15;15;Category;;prefix;Prefix;for non words only
+CAT16;16;Category;;suffix;Suffix;for non words only
+CAT17;17;Category;HIDDEN;locution;Locution;for non words only
+CAT18;18;Category;sn;symbol;symbol;Snomed CT
+CAT2;2;Category;;Adj;Adj;
+CAT3;3;Category;;Prep;Prep;
+CAT4;4;Category;;Det;Det;
+CAT5;5;Category;;Adv;Adv;
+CAT6;6;Category;;Conj;Conj;
+CAT7;7;Category;;Interj;Interj;
+CET13;13;Category;en;Poss;Poss;possessive marker
+CFD0;0;ContractedDetType;fr;deDet;de;
+CFD1;1;ContractedDetType;fr;duDet;du;
+CFD2;2;ContractedDetType;fr;desDet;des;
+CFD3;3;ContractedDetType;fr;auDet;au;
+CFD4;4;ContractedDetType;fr;auxDet;aux;
+CFF0;0;CliticFeature;fr;clMoi;Moi;
+CFF1;1;CliticFeature;fr;clOne;One;
+CFF2;2;CliticFeature;fr;clTwo;Two;
+CFF3;3;CliticFeature;fr;indirObjInter;indirObjInter;lui dans "il vous les lui fait donner"
+CFF4;4;CliticFeature;fr;subjInter;subjInter;il se fait se raser (subject interpr.)
+CFI1;17;CliticFeature;it;italianLocClitic;italianLocClitic;
+CFI2;18;CliticFeature;it;italianReflClitic;italianReflClitic;
+CFI3;19;CliticFeature;it;italianPassiveClitic;italianPassiveClitic;
+CFI4;20;CliticFeature;it;italianGenitiveClitic;italianGenitiveClitic;
+CFI5;21;CliticFeature;it;italianPartitiveClitic;italianPartitiveClitic;
+CFT10;10;CliticType;fr;enCl;en;
+CFT11;11;CliticType;fr;yCl;y;
+CFT12;12;CliticType;fr;leCl;le;
+CFT13;13;CliticType;fr;luiCl;lui;
+CFT14;14;CliticType;fr;seCl;se;
+CID0;0;ContractedDetType;it;alDetST;al;
+CID1;1;ContractedDetType;it;alloDetST;allo;
+CID10;10;ContractedDetType;it;coiDetST;coi;
+CID11;11;ContractedDetType;it;cogliDetST;cogli;
+CID12;12;ContractedDetType;it;collaDetST;colla;
+CID13;13;ContractedDetType;it;colleDetST;colle;
+CID14;14;ContractedDetType;it;dalDetST;dal;
+CID15;15;ContractedDetType;it;dalloDetST;dallo;
+CID16;16;ContractedDetType;it;dallDetST;dall;
+CID17;17;ContractedDetType;it;daiDetST;dai;
+CID18;18;ContractedDetType;it;dagliDetST;dagli;
+CID19;19;ContractedDetType;it;dallaDetST;dalla;
+CID2;2;ContractedDetType;it;allDetST;all;
+CID20;20;ContractedDetType;it;dalleDetST;dalle;
+CID21;21;ContractedDetType;it;delDetST;del;
+CID22;22;ContractedDetType;it;delloDetST;dello;
+CID23;23;ContractedDetType;it;dellDetST;dell;
+CID24;24;ContractedDetType;it;deiDetST;dei;
+CID25;25;ContractedDetType;it;degliDetST;degli;
+CID26;26;ContractedDetType;it;dellaDetST;della;
+CID27;27;ContractedDetType;it;delleDetST;delle;
+CID28;28;ContractedDetType;it;nelDetST;nel;
+CID29;29;ContractedDetType;it;nelloDetST;nello;
+CID3;3;ContractedDetType;it;aiDetST;ai;
+CID30;30;ContractedDetType;it;nellDetST;nell;
+CID31;31;ContractedDetType;it;neiDetST;nei;
+CID32;32;ContractedDetType;it;negliDetST;negli;
+CID33;33;ContractedDetType;it;nellaDetST;nella;
+CID34;34;ContractedDetType;it;nelleDetST;nelle;
+CID35;35;ContractedDetType;it;sulDetST;sul;
+CID36;36;ContractedDetType;it;sulloDetST;sullo;
+CID37;37;ContractedDetType;it;sullDetST;sull;
+CID38;38;ContractedDetType;it;suiDetST;sui;
+CID39;39;ContractedDetType;it;sugliDetST;sugli;
+CID4;4;ContractedDetType;it;agliDetST;agli;
+CID40;40;ContractedDetType;it;sullaDetST;sulla;
+CID41;41;ContractedDetType;it;sulleDetST;sulle;
+CID5;5;ContractedDetType;it;allaDetST;alla;
+CID6;6;ContractedDetType;it;alleDetST;alle;
+CID7;7;ContractedDetType;it;colDetST;col;
+CID8;8;ContractedDetType;it;colloDetST;collo;
+CID9;9;ContractedDetType;it;collDetST;coll;
+CIF0;0;CliticFeature;it,pt;clitico1;clitico1;dummy one
+CIT11;11;CliticType;it;cliticEquiClass1;cliticEquiClass1;
+CIT12;12;CliticType;it;cliticEquiClass2;cliticEquiClass2;
+CIT13;13;CliticType;it;cliticEquiClass3;cliticEquiClass3;
+CIT14;14;CliticType;it;cliticEquiClass4;cliticEquiClass4;
+CIT15;15;CliticType;it;cliticEquiClass5;cliticEquiClass5;
+CIT16;16;CliticType;it;cliticEquiClass6;cliticEquiClass6;
+CJS0;0;ConjunctionSelection;de;multipleConjuncts;multipleConjuncts;"und", "oder", in opposite to "aber", "denn"
+CJS1;1;ConjunctionSelection;de;enableEllipsis;enableEllipsis;"und", "oder", "aber" in opposite to "denn"
+CJS10;10;ConjunctionSelection;de;CPConj;CP;e.g.: dass er kommt und ...
+CJS11;11;ConjunctionSelection;de;CPInfinitive;CPInfinitive;
+CJS12;12;ConjunctionSelection;de;CPInfWithoutZu;CPInfWithoutZu;
+CJS13;13;ConjunctionSelection;de;CPrelative;CPrelative;
+CJS14;14;ConjunctionSelection;de;CPwhcompl;CPwhcompl;
+CJS2;2;ConjunctionSelection;de;sentenceLevel;sentenceLevel;denn, nur, und, oder, aber...
+CJS3;3;ConjunctionSelection;de;constituentLevel;constituentLevel;sowie, und, oder, aber
+CJS4;4;ConjunctionSelection;de;AnyConjuncts;AnyConjuncts;
+CJS5;5;ConjunctionSelection;de;DPconjuncts;DPconjuncts;
+CJS6;6;ConjunctionSelection;de;PPconjuncts;PPconjuncts;
+CJS7;7;ConjunctionSelection;de;Advconjuncts;Advconjuncts;
+CJS8;8;ConjunctionSelection;de;CPconjuncts;CPconjuncts;
+CJS9;9;ConjunctionSelection;de;CPV2;CPV2;e.g.: er kommt und
+CLF0;0;CollocFeature;;pluralColloc;pluralColloc;
+CLF1;1;CollocFeature;;detLessCompl;detLessCompl;
+CLF10;10;CollocFeature;;forTranslationOnly;forTranslationOnly;
+CLF11;11;CollocFeature;;comparatifAdj;comparatifAdj;ex: meilleure performance
+CLF12;12;CollocFeature;;partitifDetCompl;partitifDetCompl;ex: plus de lait
+CLF13;13;CollocFeature;;prepAdjNoun;prepAdjNoun;à vive allure
+CLF14;14;CollocFeature;;hyphen;hyphen;trait d'union
+CLF15;16;CollocFeature;;virgule;virgule;Mesdames, Messieurs
+CLF16;15;CollocFeature;;comparativeAdj;comparativeAdj;on closer inspection / examination
+CLF17;17;CollocFeature;;demonstrativeDetCompl;demonstrativeDetCompl;à cet égard
+CLF2;2;CollocFeature;;notDetLessCompl;notDetLessCompl;
+CLF3;3;CollocFeature;;pluralCompl;pluralCompl;
+CLF31;31;CollocFeature;;partOfColloc;partOfColloc;participation à une autre colloc
+CLF4;4;CollocFeature;;possessiveCompl;possessiveCompl;
+CLF5;5;CollocFeature;;bareNounCompl;bareNounCompl;eg prendre soin
+CLF6;6;CollocFeature;;frozenCompl;frozenCompl;+/- expr idiomatique, eg prendre la parole
+CLF7;7;CollocFeature;;nounPossNoun;nounPossNoun;collector's item
+CLF8;8;CollocFeature;;indefiniteDetCompl;indefiniteDetCompl;ex: émettre des réserves
+CLF9;9;CollocFeature;;compoundColloc;compound;ex: bande passante, Premier ministre
+COE5;5;ConjunctionFeature;en;gerundConj;gerundConj;while doing¿
+COF0;0;ConjunctionFeature;;noInfinitivalConj;noInfinitival;if / si
+COF1;1;ConjunctionFeature;;disjunctionConj;disjunction;or / ou
+COF10;10;ConjunctionFeature;fr;neFacultatifConj;neFacultatif;avant que
+COF11;11;ConjunctionFeature;;modifConj;modif;faute de
+COF12;12;ConjunctionFeature;fr;enConj;en;en+V-ant, "en travaillant..."
+COF13;13;ConjunctionFeature;fr;parCompl;parCompl;par + infinitif ; e.g.  il commença par dormir
+COF14;14;ConjunctionFeature;fr;exclConj;exclConj;exclamative, eg. pourvu qu'il vienne !
+COF16;15;ConjunctionFeature;fr;participePrésentConj;partPrés;
+COF2;2;ConjunctionFeature;;whConj;wh;whether
+COF3;3;ConjunctionFeature;;declarativeConj;declarative;that / que
+COF4;4;ConjunctionFeature;en;forConj;for;for
+COF5;5;ConjunctionFeature;fr,es,pt;deCompl;deCompl;de + infinitif
+COF6;6;ConjunctionFeature;fr,pt;aCompl;àCompl;à  + infinitif
+COF7;7;ConjunctionFeature;;indConj;ind;afin/lorsque/quand...
+COF8;8;ConjunctionFeature;;infConj;infinitif;afin de
+COF9;9;ConjunctionFeature;en,fr,it,es,pt;subjConj;subj;bien que
+COL0;0;CollocType;;adjectiveNoun;adjectif-nom;ADJ-NOUN
+COL1;1;CollocType;;nounAdjective;nom-adjectif;NOUN-ADJ
+COL10;10;CollocType;;nounPrepNoun;nom prép nom;NOUN-PREP-NOUN
+COL12;12;CollocType;fr;nomNom;nom-nom (1er = tête);NOUN-NOUN
+COL13;13;CollocType;;adjPrepNoun;adj-prep-nom;ADJ-PREP-NOUN
+COL14;14;CollocType;;verbAdjective;verbe adjectif;VERB-ADJ
+COL15;15;CollocType;;verbVerb;verbe verbe;VERB-VERB
+COL16;16;CollocType;;prepNoun;prép nom;PREP-NOUN
+COL17;17;CollocType;;verbAdverb;verbe adverbe;VERB-ADV
+COL18;18;CollocType;;nounPrepVerb;nom prép verbe;NOUN-PREP-VERB
+COL19;19;CollocType;;PPmodifier;PPmodifieur;PREP-NOUN-ADJ
+COL2;2;CollocType;de,en;nounNoun;noun-noun (2ème = tête);NOUN-NOUN
+COL20;20;CollocType;;advAdj;adverbe-adjectif;ADV-ADJ
+COL21;21;CollocType;;adjPrep;adjectif-prep;ADJ-PREP
+COL22;22;CollocType;;nounAndNoun;noun & noun;NOUN-CONJ-NOUN
+COL23;23;CollocType;;verbAndVerb;verb & verb;VERB-CONJ-VERB
+COL24;24;CollocType;;nounAdverb;nom adverbe;NOUN-ADV
+COL25;25;CollocType;;detNom;det nom;DET-NOUN
+COL26;26;CollocType;;adjAndAdj;adj & adj;ADJ-CONJ-ADJ
+COL27;27;CollocType;;adjPrepVerb;adj-prep-verbe;ADJ-PREP-VERB
+COL28;28;CollocType;;advAdv;adverbe adverbe;ADV-ADV
+COL29;29;CollocType;;nounPossNoun;noun-poss-noun;NOUN-Poss-NOUN
+COL3;3;CollocType;;subjectVerb;sujet-verbe;NOUN-VERB
+COL30;30;CollocType;de,el;nounDPGen;nom + dp génitif;NOUN-Gen-NOUN
+COL31;31;CollocType;;prefixNoun;prefixNoun;
+COL32;32;CollocType;;adverbNoun;adverbe nom;ADV-NOUN
+COL33;33;CollocType;;adverbAndAdverb;adv & adv;ADV-CONJ-ADV
+COL34;34;CollocType;;adjAdv;adjectif adverbe;ADJ-ADV
+COL35;35;CollocType;;advDet;adverbe det;ADV-DET
+COL4;4;CollocType;;verbObject;verbe-objet direct;VERB-NOUN
+COL5;5;CollocType;;verbPrep;verbe prép;VERB-PREP
+COL6;6;CollocType;;verbPrepArg;verbe prép arg;VERB-PREP-NOUN
+COL7;7;CollocType;;nounPredAdjective;nom verbe adjectif predicatif;NOUN-ADJ
+CON0;0;ConjunctionType;;coordination;coordination;and
+CON1;1;ConjunctionType;;subordination;subordination;although
+COO0;0;CoocType;;adjectiveNoun;adjectiveNoun;
+COO1;1;CoocType;;nounAdjective;nounAdjective;
+COO10;10;CoocType;;nounPrepNoun;nounPrepNoun;
+COO11;11;CoocType;;collocation;collocation;
+COO12;12;CoocType;;nomNom;nomNom;1er nom = tête
+COO13;13;CoocType;;adjPrepNoun;adjPrepNoun;fou de rage
+COO14;14;CoocType;;verbAdjective;verbAdjective;
+COO2;2;CoocType;;nounNoun;nounNoun;2ème nom = tête
+COO3;3;CoocType;;subjectVerb;subjectVerb;
+COO4;4;CoocType;;verbObject;verbObject;
+COO5;5;CoocType;;verbPrep;verbPrep;
+COO6;6;CoocType;;verbPrepArg;verbPrepArg;
+COO7;7;CoocType;;nounPredAdjective;nounPredAdjective;
+COO8;8;CoocType;;compoundNoun;compoundNoun;
+COO9;9;CoocType;;idiom;idiom;
+COS10;10;ConjunctionFeature;es;queInfinitif;queInfinitif;que + infinitif
+COS13;13;ConjunctionFeature;es;porCompl;porCompl;por + infinitif
+COS14;14;ConjunctionFeature;es;paraCompl;paraCompl;para + infinitif
+COS15;15;ConjunctionFeature;es;conCompl;conCompl;
+COS16;16;ConjunctionFeature;es;enCompl;enCompl;
+CPD0;0;ContractedDetType;pt;aoDet;ao;
+CPD1;1;ContractedDetType;pt;àDet;à;
+CPD10;10;ContractedDetType;pt;nosDet;nos;
+CPD11;11;ContractedDetType;pt;nasDet;nas;
+CPD12;12;ContractedDetType;pt;peloDet;pelo;
+CPD13;13;ContractedDetType;pt;pelaDet;pela;
+CPD14;14;ContractedDetType;pt;pelosDet;pelos;
+CPD15;15;ContractedDetType;pt;pelasDet;pelas;
+CPD16;16;ContractedDetType;pt;numDet;num;
+CPD17;17;ContractedDetType;pt;numaDet;numa;
+CPD18;18;ContractedDetType;pt;nunsDet;nuns;
+CPD19;19;ContractedDetType;pt;numasDet;numas;
+CPD2;2;ContractedDetType;pt;aosDet;aos;
+CPD20;20;ContractedDetType;pt;dumDet;dum;
+CPD21;21;ContractedDetType;pt;dumaDet;duma;
+CPD22;22;ContractedDetType;pt;dunsDet;duns;
+CPD23;23;ContractedDetType;pt;dumasDet;dumas;
+CPD3;3;ContractedDetType;pt;àsDet;às;
+CPD4;4;ContractedDetType;pt;doDet;do;
+CPD5;5;ContractedDetType;pt;daDet;da;
+CPD6;6;ContractedDetType;pt;dosDet;dos;
+CPD7;7;ContractedDetType;pt;dasDet;das;
+CPD8;8;ContractedDetType;pt;noDet;no;
+CPD9;9;ContractedDetType;pt;naDet;na;
+CPT13;13;CliticType;pt;cliticMixte;cliticMixte;
+CPT14;14;CliticType;pt;cliticContracté;cliticContracté;
+CPX0;0;Complexity;;simple;simple;
+CPX1;1;Complexity;;complex;complex;
+CST10;10;CliticType;es;cliticSujet;cliticSujet;
+CST11;11;CliticType;es,pt;cliticObjetDirect;cliticOD;
+CST12;12;CliticType;es,pt;cliticObjetIndirect;cliticOI;
+CTX48;48;ContextType;;Swiss;Swiss;
+CXT0;0;ContextType;;Administration;Administration;
+CXT1;1;ContextType;;Art;Art;
+CXT10;10;ContextType;;Farming;Farming;
+CXT11;11;ContextType;;Finance;Finance;
+CXT12;12;ContextType;;Gambling;Gambling;
+CXT13;13;ContextType;;Geography;Geography;
+CXT14;14;ContextType;;Hunting;Hunting;
+CXT15;15;ContextType;;Industry;Industry;
+CXT16;16;ContextType;;Jobs;Jobs;
+CXT17;17;ContextType;;LawAndPolice;LawAndPolice;
+CXT18;18;ContextType;;Linguistics;Linguistics;
+CXT19;19;ContextType;;Literature;Literature;
+CXT2;2;ContextType;;Auto;Auto;
+CXT20;20;ContextType;;Mathematics;Mathematics;
+CXT21;21;ContextType;;Medicine;Medicine;
+CXT22;22;ContextType;;Navigation;Navigation;
+CXT23;23;ContextType;;Occupations;Occupations;ex. philatelie
+CXT24;24;ContextType;;Photo;Photo;
+CXT25;25;ContextType;;Politics;Politics;
+CXT26;26;ContextType;;Rail;Rail;
+CXT27;27;ContextType;;ScienceAndTechnics;ScienceAndTechnics;
+CXT28;28;ContextType;;Culinary;Culinary;
+CXT29;29;ContextType;;Editing;Editing;
+CXT3;3;ContextType;;Aviation;Aviation;
+CXT30;30;ContextType;;Psych;Psych;
+CXT31;31;ContextType;;Religion;Religion;
+CXT32;32;ContextType;;School;School;
+CXT33;33;ContextType;;Typography;Typography;
+CXT34;34;ContextType;;Handicraft;Handicraft;
+CXT35;35;ContextType;;Sport;Sport;
+CXT36;36;ContextType;;Telecomm;Telecomm;
+CXT37;37;ContextType;;Zoology;Zoology;
+CXT38;38;ContextType;;Meteorology;Meteorology;
+CXT39;39;ContextType;;Military;Military;
+CXT4;4;ContextType;;Biology;Biology;
+CXT40;40;ContextType;;US;US;
+CXT41;41;ContextType;;Brit;Brit;
+CXT42;42;ContextType;;History;History;
+CXT43;43;ContextType;;Colloquial;Colloquial;
+CXT44;44;ContextType;;Figurative;Figurative;
+CXT45;45;ContextType;;Pejorative;Pejorative;
+CXT46;46;ContextType;;Standard;Standard;
+CXT47;47;ContextType;;otherContext;otherContext;
+CXT49;49;ContextType;;Austrian;Austrian;
+CXT5;5;ContextType;;Body;Body;
+CXT6;6;ContextType;;Botanics;Botanics;
+CXT7;7;ContextType;;Cinema;Cinema;
+CXT8;8;ContextType;;Construction;Construction;
+CXT9;9;ContextType;;Economics;Economics;
+DCT10;10;DeclensionType;de;strong;strong;no det: "grosser Man"
+DCT11;11;DeclensionType;de;weak;weak;definite det: "der grosse Man"
+DCT12;12;DeclensionType;de;mixed;mixed;undefinite det: "ein grosser Man"
+DDS0;0;DeterminerSelection;de;NP;[_NP];[_NP] der [NP Baum]
+DDS1;1;DeterminerSelection;de;NPSg;[NP {+sg}];[NP {+sg}] jede Pflanze
+DDS2;2;DeterminerSelection;de;NPPl;[_NP {+Pl}];[_NP {+Pl}] mehrere
+DDS3;3;DeterminerSelection;de;NPSgMass;[_NP {+Sg:+Mass}];[_NP {+Sg:+Mass}] wenig Honig
+DDS4;4;DeterminerSelection;de;DPDef;[_DP {+Def}];[_DP {+Def}] alle deine Fehler
+DDS5;5;DeterminerSelection;de;DPGenDefPl;[_DP {+Gen;+Def;+Pl}];[_DP {+Gen;+Def;+Pl}] eine deiner Finger
+DDS6;6;DeterminerSelection;de;PPvonDefPl;[_PP von {+Def;+Pl}];[_PP von {+Def;+Pl}] zwei von ihren Taten
+DEG0;0;Degree;;positive;positive;good
+DEG1;1;Degree;;comparative;comparative;better
+DEG2;2;Degree;;superlative;superlative;best
+DEI29;39;DeterminerType;it;negativeDet;negative;
+DES2;12;DeterminerType;es,eo;demonstratifProcheDet;demonstratifProche;este
+DES29;39;DeterminerType;es,eo;demonstratifLointainDet;demonstratifLointain;aquel
+DES30;40;DeterminerType;es,eo;demonstratifMixteDet;demonstratifMixte;ése
+DET0;10;DeterminerType;;definiteDet;definite;the
+DET1;11;DeterminerType;;indefiniteDet;indefinite;a
+DET10;20;DeterminerType;;polarityItemDet;polarityItem;any
+DET11;21;DeterminerType;;saxonDet;saxon;'s
+DET12;22;DeterminerType;;comparativeDet;comparative;plus, moins, autant
+DET13;23;DeterminerType;;emptyDet;empty;
+DET14;24;DeterminerType;;ditransitiveDet;ditransitive;
+DET15;25;DeterminerType;;pronominalDet;pronominal;eux, lui
+DET16;26;DeterminerType;;properNameDet;properName;Paul
+DET18;28;DeterminerType;;pronominalSubject;pronominalSubject;il, nous
+DET19;29;DeterminerType;;percentDet;percent;23%
+DET2;12;DeterminerType;en,fr,de,it,rm,la,pt;demonstrativeDet;demonstrative;this
+DET20;30;DeterminerType;;ordinalDet;ordinal;1er, 12e, 1291e
+DET21;31;DeterminerType;;specialNumberDet;specialNumber;751.57.09
+DET22;32;DeterminerType;;cardinalDet;cardinal;12, 1291
+DET23;33;DeterminerType;;digitDet;digit;DP chiffre, e.g. 12 vs. douze
+DET24;34;DeterminerType;;expletiveDet;expletive;"il" impersonnel, "it" etc.
+DET25;35;DeterminerType;;thereDet;there;
+DET26;36;DeterminerType;;gerundDet;gerund;
+DET27;37;DeterminerType;;indepPossessiveDet;indepPossessive;independent possessive pronoun "hers"
+DET28;38;DeterminerType;;reflexiveReciprocalDet;reflexiveReciprocal;se, etc.
+DET3;13;DeterminerType;;possessiveDet;possessive;his
+DET4;14;DeterminerType;;interrogativeDet;interrogative;which, what
+DET5;15;DeterminerType;;numeralDet;numeral;one, first
+DET6;16;DeterminerType;;quantitativeDet;quantitative;most, several, all
+DET7;17;DeterminerType;;universalDet;universal;tous, chaque
+DET8;18;DeterminerType;;contractedDet;contracted;au, aux, du
+DET9;19;DeterminerType;;partitiveDet,;partitive;du, des
+DIG0;0;DeterminerInflection;;irregular;irregular;
+DIG-1;-1;DeterminerInflection;;noInflexion;noInflexion;
+DIL1;1;DeterminerInflection;la;regular;1. pronoms-adjectifs possessifs meus, a, um;
+DSF0;0;DetSynFeature;es;specialAgreement;specialAgreement;
+DTG1;1;DeclinationType;de;declTypeI;declTypeI;without determiner: "weicher Stoff"
+DTG2;2;DeclinationType;de;declTypeII;declTypeII;definite determiner: "der weiche Stoff"
+DTG3;3;DeclinationType;de;declTypeIII;declTypeIII;indefinite determiner: "kein weicher Stoff"
+DTG4;4;DeclinationType;de;declTypeIV;declTypeIV;declTypeI and declType II
+EDS0;0;DeterminerSelection;en,fr,it,es,eo,la,pt;Ncpl;Ncpl;
+EDS1;1;DeterminerSelection;en,fr,it,es,la,pt;Nmass;Nmass;
+EDS2;2;DeterminerSelection;en,fr,it,es,la,pt;Ddef;Ddef;
+EDS3;3;DeterminerSelection;en,fr,it,es,eo,la,pt;Dnum;Dnum;
+EDS4;4;DeterminerSelection;en,fr,it,es,la,pt;Vcpl;Vcpl;
+EDS5;5;DeterminerSelection;en,fr,it,es,la,pt;distributiveDet;distributiveDet;
+EDS6;6;DeterminerSelection;en;Pof;Pof;
+EDS7;7;DeterminerSelection;en;than;than;
+EDS8;8;DeterminerSelection;en;Dindef;Dindef;
+ENF0;0;NPFeature;;impersonalNP;impersonal;
+ENF1;1;NPFeature;;animateNP;animate;
+ENF2;2;NPFeature;;humanNP;human;
+ENF3;3;NPFeature;;inanimateNP;inanimate;
+ENF4;4;NPFeature;en;reflexiveNP;reflexiveNP;
+ENF5;5;NPFeature;en;possessive;possessiveNP;
+ENF6;6;NPFeature;en;enf7;enf7;
+ESS0;0;Essai;;no&no;;
+FDS6;6;DeterminerSelection;fr,es;Pde;Pde;
+FLA0;0;Flags;;0;0;
+FLA1;1;Flags;en,eo,es,fr,it,la,pt,rm;1;1;
+FLA10;10;Flags;;10;10;
+FLA11;11;Flags;;variant;variant;
+FLA15;15;Flags;;15;15;
+FLA16;16;Flags;;16;16;flag de continuation
+FLA17;17;Flags;;17;17;
+FLA18;18;Flags;;18;18;
+FLA19;19;Flags;;19;19;
+FLA2;2;Flags;en,eo,es,fr,it,la,pt,rm;2;2;
+FLA20;20;Flags;;homograph;homograph;record, président
+FLA21;21;Flags;;21;21;
+FLA22;22;Flags;;verbHomograph;verbHomograph;
+FLA23;23;Flags;;adjHomograph;adjHomograph;
+FLA24;24;Flags;;nounHomograph;nounHomograph;
+FLA25;25;Flags;en,fr,it;formeElidee;formeElidee;jusqu', forme elidee
+FLA26;26;Flags;en,fr,it;formeNonElidee;formeNonElidee;jusque, mot susceptible d'elision
+FLA27;27;Flags;;uncheckedLiaison;uncheckedLiaison;presence d'une consonne latente doit etre validee
+FLA28;28;Flags;;uncheckedNonLiaison;uncheckedNonLiaison;l'absence d'une consonne latente doit etre validee
+FLA3;3;Flags;en,eo,es,fr,it,la,pt,rm;privateProperNoun;privateProperNoun;Nom propre qui devrait faire partie d'un lexique privé
+FLA4;4;Flags;en,eo,es,fr,it,la,pt,rm;4;4;
+FLA5;5;Flags;en,eo,es,fr,it,la,pt,rm;5;5;
+FLA6;6;Flags;;6;6;
+FLA7;7;Flags;;7;7;
+FLA8;8;Flags;;8;8;
+FLA9;9;Flags;;9;9;
+FLD1;1;Flags;de;1;Infl  Klasse I;
+FLD12;12;Flags;de;12;12 ( 1 autrefois);
+FLD2;2;Flags;de;2;Infl  Klasse II;
+FLD3;3;Flags;de;3;Infl  Klasse III;Classe pour composition de noms
+FLD4;4;Flags;de;4;Infl  Klasse IV;
+FLD5;5;Flags;de;5;Infl  Klasse V;
+FLE30;30;Flags;en;contractedForm;contractedForm;isn't, cannot, couldn't
+FLE31;31;Flags;en;pronunciationFlag;pronunciationFlag;peut se prononcer de 2 manières, p.e. prOcess ou procEss
+FLF29;29;Flags;fr;hMuet;hMuet;homme
+FLF30;30;Flags;fr;noElision;noElision;onze, onzième, un, huit
+FLF31;31;Flags;fr;tresFlag;tresFlag;marque les adv très et si -> à mettre dans trait d'adverbe
+FLI31;29;Flags;it;verbCliticHomograph;verbCliticHomograph;vestiti [N] (les vêtement) - vestiti (habille-toi)
+FLP13;13;Flags;pt;diminutif;diminutif;
+FLP14;14;Flags;pt;augmentatif;augmentatif;
+FLS12;12;Flags;es;formeImpersonnelle;formeImpersonnelle;
+FLS25;25;Flags;es;apócope;apócope;algún
+FLS26;26;Flags;es;noApocopado;noApocopado;alguno
+FLS29;29;Flags;es;aTonique;aTonique;
+GEN0;0;Gender;;masculine;masc;
+GEN1;1;Gender;;feminine;fem;
+GEN2;2;Gender;en,de,la;neuter;neut;
+GNF4;4;NPFeature;de;gnf5;gnf5;
+GNF5;5;NPFeature;de;gnf6;gnf6;
+GNF6;6;NPFeature;de;gnf7;gnf7;
+GRF0;0;GrammaticalFunction;;subject;subject;
+GRF1;1;GrammaticalFunction;;indirectObject;indirectObject;
+GRF2;2;GrammaticalFunction;;directObject;directObject;
+GRF3;3;GrammaticalFunction;;PrepObject;PrepObject;
+GRF4;4;GrammaticalFunction;;PrepObject2;PrepObject2;
+GRF5;5;GrammaticalFunction;;PredObject;PredObject;
+GRF6;6;GrammaticalFunction;;SObject;SObject;
+IDI0;0;IdiomType;;fixedI;fixedI;
+IDI1;1;IdiomType;;laxI;laxI;
+IDI2;2;IdiomType;;possessI;possessI;
+IDI3;3;IdiomType;;particleI;particleI;
+IDS10;10;DeterminerSelection;it;Ptra;Ptra;
+IDS11;11;DeterminerSelection;it;Pfra;Pfra;
+IDS12;12;DeterminerSelection;it,pt;Dposs;Dposs;possessive det, e.g. il suo libro
+IDS6;6;DeterminerSelection;it;Pdi;Pdi;
+IDS7;7;DeterminerSelection;it;Nabstr;Nabstr;abstract noun
+IDS8;8;DeterminerSelection;it;Ncount;Ncount;countable noun
+IDS9;9;DeterminerSelection;it;Ddem;Ddem;demonstrative determiner
+INF4;4;NPFeature;it;inf5;inf5;
+INF5;5;NPFeature;it;inf6;inf6;
+INF6;6;NPFeature;it;inf7;inf7;
+INT0;0;InterjectionType;;noCompl;noCompl;
+INT1;1;InterjectionType;;complDp;complDp;
+INT2;2;InterjectionType;;complDpPp;complDpPp;
+IPG0;0;InsepParticle;de;bePrtl;be;
+IPG1;1;InsepParticle;de;verPrtl;ver;
+IPG10;10;InsepParticle;de;gePrtl;ge;
+IPG2;2;InsepParticle;de;entPrtl;ent;
+IPG3;3;InsepParticle;de;erPrtl;er;
+IPG4;4;InsepParticle;de;zerPrtl;zer;
+IPG5;5;InsepParticle;de;missPrtl;miss;inseparable
+IPG6;6;InsepParticle;de;fehlPrtl;fehl;
+IPG7;7;InsepParticle;de;rePrtl;re;
+IPG8;8;InsepParticle;de;dePrtl;de;
+IPG9;9;InsepParticle;de;inPrtl;in;
+MOE0;0;ModalType;en;can;can;
+MOE1;1;ModalType;en;dare;dare;
+MOE10;10;ModalType;en;will;will;
+MOE2;2;ModalType;en;do;do;
+MOE3;3;ModalType;en;hadBetter;hadBetter;
+MOE4;4;ModalType;en;may;may;
+MOE5;5;ModalType;en;must;must;
+MOE6;6;ModalType;en;need;need;
+MOE7;7;ModalType;en;ought;ought;
+MOE8;8;ModalType;en;shall;shall;
+MOE9;9;ModalType;en;used;used;
+MOF0;0;ModalType;fr;pouvoir;pouvoir;
+MOF1;1;ModalType;fr;devoir;devoir;
+MOF2;2;ModalType;fr;vouloir;vouloir;
+MOG0;0;ModalType;de;wollen;wollen;
+MOG1;1;ModalType;de;moegen;moegen;
+MOG2;2;ModalType;de;koennen;koennen;
+MOG3;3;ModalType;de;duerfen;duerfen;
+MOG4;4;ModalType;de;muessen;muessen;
+MOG5;5;ModalType;de;sollen;sollen;
+MOI0;0;ModalType;it;potere;potere;
+MOI1;1;ModalType;it;volere;volere;
+MOI2;2;ModalType;it;dovere;dovere;
+MOI20;20;Mood;it;indicativo;indicativo;
+MOI21;21;Mood;it;imperativo;imperativo;
+MOI22;22;Mood;it;congiuntivo;congiuntivo;
+MOI23;23;Mood;it;condizionale;condizionale;
+MOO20;20;Mood;en,eo,fr,de,es,la,rm,pt;indicative;indicative;
+MOO21;21;Mood;en,eo,fr,de,es,la,rm,pt;imperative;imperative;
+MOO22;22;Mood;en,eo,es,fr,la,rm,pt;subjunctive;subjunctive;
+MOO23;22;Mood;de;conjunctive;conjunctive;
+MOO24;24;Mood;rm;conjunctive;conjunctive;indirect speech
+MOO25;23;Mood;eo,es,fr,rm,pt;conditional;conditional;
+MOO26;23;Mood;en;irrealis;irrealis;
+NAL0;0;Numeral;;cardinal;cardinal;seven
+NAL1;1;Numeral;;ordinal;ordinal;second
+NAL2;2;Numeral;;fractional;fractional;quarter
+NIE1;1;NounInflection;en;N_1;standard;
+NIE2;2;NounInflection;en;N_2;invariable;
+NIF0;1;NounInflection;fr;N_1;-"", -"s" (masc);homme, footballeur
+NIF1;2;NounInflection;fr;N_2;-"", -"s" (fem);femme, joueuse 
+NIF2;8;NounInflection;fr;N_8;-"", -"s" (masc & fem);
+NIF3;3;NounInflection;fr;N_3;-"", -"x" (masc);hibou, cheval, 
+NIF4;4;NounInflection;fr;N_4;-"", -"x" (fem);eau, peau
+NIF5;7;NounInflection;fr;N_7;-"ail", -"aux";bail, corail, 
+NIF6;5;NounInflection;fr;N_5;invariable (masc);
+NIF7;6;NounInflection;fr;N_6;invariable (fem);
+NIF8;9;NounInflection;fr;N_9;invariable (masc & fem);
+NIG1;1;NounInflection;de;1;[1] M Pl -e/0 (Berg, Prozess, Erfinder);der Berg, der Prozess, der Erfinder
+NIG10;10;NounInflection;de;10;[10] F Pl -en (Zeitung, Lehrerin, Firma);Zeitung, Lehrerin, Firma
+NIG11;11;NounInflection;de;11;[11] M Pl -en, Gen/Dat/Acc -en (Mensch, Extremist, Affe);Mensch, Extremist, Affe
+NIG12;12;NounInflection;de;12;[12] M Pl -en, Gen -s (Staat, Doktor, Fötus);Staat, Doktor, Fötus
+NIG13;13;NounInflection;de;13;[13] N Pl -en, Gen -s (Ohr, Auge, Ende, Museum);Ohr, Auge, Ende, Museum
+NIG14;14;NounInflection;de;14;[14] M Pl -en, NomSg -e/-en, Gen -ens (Glaube, Name);Glaube, Name
+NIG16;16;NounInflection;de;16;[16] MFN Nominalisierte Adjektive (Abgeordnete);Abgeordnete
+NIG2;2;NounInflection;de;2;[2] N Pl -e/0 (Werk, Verhältnis, Gläschen);das Werk, das Verhältnis, das Gläschen
+NIG21;21;NounInflection;de;21;[21] M nur Sing, Gen -s (Europarat, Stolz, Rassismus);Europarat, Stolz, Rassismus
+NIG22;22;NounInflection;de;22;[22] N nur Sing, Gen -s (Eis, Basel, Afghanistan, Lesen);Eis, Basel, Afghanistan, Lesen
+NIG23;23;NounInflection;de;23;[23] F nur Sing, Gen 0 (Biochemie, Hisbollah);Biochemie, Hisbollah
+NIG25;25;NounInflection;de;25;[25] M Eigennamen (Philipp, Hans, Max);Philipp, Hans, Max
+NIG26;26;NounInflection;de;26;[26] F Eigennamen (Julia, Heike);Julia, Heike
+NIG3;3;NounInflection;de;3;[3] M Pl Umlaut+e/0 (Sohn, Kanal, Vogel);Sohn, Kanal, Vogel
+NIG30;30;NounInflection;de;30;[30] MFN nur Plural, Dat -(e)n (Kosten, Eltern, Drittmittel);Kosten, Eltern, Drittmittel
+NIG31;31;NounInflection;de;31;[31] M -mann, Pl -leute und -männer (Kaufmann, Feuerwehrmann);Kaufmann, Feuerwehrmann
+NIG4;4;NounInflection;de;4;[4] F Pl Umlaut+e/0 (Erkenntnis, Macht, Tochter);Erkenntnis, Macht, Tochter
+NIG5;5;NounInflection;de;5;[5] N Pl Umlaut+er (Haus, Glas, Bild);Haus, Glas, Bild
+NIG6;6;NounInflection;de;6;[6] M Pl Umlaut+er (Gott, Mann, Wald);Gott, Mann, Wald
+NIG7;7;NounInflection;de;7;[7] M Pl -s (Test, Profi);Test, Profi
+NIG8;8;NounInflection;de;8;[8] N Pl -s (Radio, Känguruh);Radio, Känguruh
+NIG9;9;NounInflection;de;9;[9] F Pl -s (Kamera, Homepage);Kamera, Homepage
+NII0;1;NounInflection;it;N_1;[1] -"a", -"i";problema, poeta, profeta, 
+NII1;2;NounInflection;it;N_2;[2] -"a", -"e";sorella, monaca, 
+NII10;11;NounInflection;it;N_11;[11]  -"e", -"i" (fem);curatrice, curatrici
+NII11;12;NounInflection;it;N_12;[12]  -"ia", -"e" (fem);freccia - frecce
+NII2;3;NounInflection;it;N_3;[3] -"o", -"i";capello, fuoco, 
+NII3;4;NounInflection;it;N_4;[4] -"o", -"i" (sdrucciole);medico, teologo, 
+NII4;5;NounInflection;it;N_5;[5] -"e", -"i" (masc);padre, padri
+NII5;6;NounInflection;it;N_6;[6] invariable;moto, superficie
+NII6;7;NounInflection;it;N_7;[7] masc en í (zío);
+NII7;8;NounInflection;it;N_8;[8] fem inv en à (liquidità);
+NII8;9;NounInflection;it;N_9;[9] noms géographiques fém (Bologna);
+NII9;10;NounInflection;it;N_10;[10] noms masc et fém en -a, avec pl -i (masc) et -e (fém);linguista -i, -e
+NIL1;22;NounInflection;la;N_22;22. Romulus -- noms propres masc sg en us/-i;
+NIL10;21;NounInflection;la;N_21;21. templum -- noms neutres en -um/-i;
+NIL11;16;NounInflection;la;N_16;16. Tiberis -- noms propres sg par.;
+NIL12;17;NounInflection;la;N_17;17. Venus, veneris -- noms propres sg impar.;
+NIL13;4;NounInflection;la;N_4;4. manus - noms masc/fém en -us/-us;
+NIL14;41;NounInflection;la;N_41;41. cornu - noms neutres en -u/-us;
+NIL15;5;NounInflection;la;N_5;5. dies - noms masc/fém en -es/-ei;
+NIL2;23;NounInflection;la;N_23;23. Capitolium -- noms propres neut sg en -um/-i;
+NIL3;3;NounInflection;la;N_3;3. civis - parisyllabiques masc/fém;
+NIL4;31;NounInflection;la;N_31;31. mare - parisyllabiques  neutres;
+NIL5;14;NounInflection;la;N_14;14. dux, ducis - imparisyllabiques masc/fém;
+NIL6;15;NounInflection;la;N_15;15. opus, operis - imparisyllabiques  neutres;
+NIL7;1;NounInflection;la;N_1;1. rosa -- noms féminins en -a/-ae;
+NIL8;12;NounInflection;la;N_12;12. Roma -- noms propres sg en -a/-ae;
+NIL9;2;NounInflection;la;N_2;2. dominus -- noms masculins en -us/-i;
+NIN0;0;NounInflection;;irregular;irregular;
+NIN-1;-1;NounInflection;;noInflexion;noInflexion;
+NIN-2;-2;NounInflection;;undefinedInflection;not yet defined;
+NIO1;1;NounInflection;eo;N_1;[1] inflclass 1;
+NIO2;2;NounInflection;eo;N_2;[2] inflclass 2;
+NIO3;3;NounInflection;eo;N_3;[3] inflclass 3;
+NIP1;1;NounInflection;pt;N_1;[1] noms masculins avec pluriel en -s  -- gato/gatos;
+NIP10;10;NounInflection;pt;N_10;[10] noms masculins avec pluriel en is -- animal/animais;
+NIP11;11;NounInflection;pt;N_11;[11] noms féminins avec pluriel en is -- animal/animais;
+NIP12;12;NounInflection;pt;N_12;[12] noms masculins avec pluriel en is tonique -- gentil/gentis;
+NIP13;13;NounInflection;pt;N_13;[13] noms masculins avec pluriel en is atone -- fácil/fáceis;
+NIP14;14;NounInflection;pt;N_14;[14] noms avec les 2 genres;
+NIP15;15;NounInflection;pt;N_15;[15] noms masculins invariables --;
+NIP16;16;NounInflection;pt;N_16;[16] noms féminins invariables --;
+NIP2;2;NounInflection;pt;N_2;[2] noms féminins avec pluriel en -s -- mãe/mães;
+NIP3;3;NounInflection;pt;N_3;[3] noms masculins avec pluriel en -ns -- homem/homens;
+NIP4;4;NounInflection;pt;N_4;[4] noms féminins avec pluriel en -ns -- clonagem/clonagens;
+NIP5;5;NounInflection;pt;N_5;[5] noms masculins avec alternance ão-ões -- leão/leões;
+NIP6;6;NounInflection;pt;N_6;[6] noms féminins avec alternance ão-ões -- dedicação/dedicações;
+NIP7;7;NounInflection;pt;N_7;[7] noms masculins avec alternance ão-ães -- pão/pães;
+NIP8;8;NounInflection;pt;N_8;[8] noms masculins avec pluriel en -es -- rapaz/rapazes;
+NIP9;9;NounInflection;pt;N_9;[9] noms féminins avec pluriel en -es -- cicatriz/cicatrizes;
+NIR0;1;NounInflection;rm;1;réguliers (signur, pumpier, plaz, cass, actividad, nota);signur, pumpier, plaz, cass, actividad, nota
+NIR1;2;NounInflection;rm;2;alternance vocalique -ie- > -o- (fiep/fops, taglier/tagliors, iev/ovs);fiep/fops, taglier/tagliors, iev/ovs
+NIR10;11;NounInflection;rm;11;PP substantivés -iu/-ida (spartiu/spartis);spartiu/spartis
+NIR11;12;NounInflection;rm;12;singularia tantum / collectifs (nord, Svizra, maglia, detta);nord, Svizra, maglia, detta
+NIR12;13;NounInflection;rm;13;pluralia tantum (Indias, victualias);Indias, victualias
+NIR2;3;NounInflection;rm;3;alternance vocalique -ie- > -(i)a- (tschierv/tscharvs, tierm/tiarms, fier/fiars);tschierv/tscharvs, tierm/tiarms, fier/fiars
+NIR3;4;NounInflection;rm;4;alternance vocalique -i > -(i)als (utschi/utschals, casti/castials);utschi/utschals, casti/castials
+NIR4;5;NounInflection;rm;5;alternance vocalique -iel > -(i)euls, -al > -auls (tetgal/tetgauls);tetgal/tetgauls, cavriel/cavreuls
+NIR5;6;NounInflection;rm;6;mutation gl > l (cavagl/cavals);cavagl/cavals
+NIR6;7;NounInflection;rm;7;féminins avec pluriel en -ns (matta/mattauns/mattas, dunna/dunnauns/dunnas);matta/mattauns/mattas, dunna/dunnauns/dunnas
+NIR7;8;NounInflection;rm;8;um/umens;
+NIR8;9;NounInflection;rm;9;liug/loghens/logs;
+NIR9;10;NounInflection;rm;10;PP substantivés -au/-ada (deputau, deputada, disoccupau);deputau, deputada, disoccupau
+NIS1;1;NounInflection;es;N_1;1. MASC café, cafés;masc, atone ou é (café cafés)
+NIS10;10;NounInflection;es;N_10;10.[fém, masc] + {-[es|as]} juez, jueces, jueza, juezas;
+NIS15;15;NounInflection;es;N_15;15.[masc] + {-(e)s} hindú, hindúes, hindús.;
+NIS16;16;NounInflection;es;N_16;16.[masc, fém] + {-(e)s}: un israelí, una israelí;un israelí, una israelí, (unos|unas) israelíes, (unos|unas) israelís
+NIS17;17;NounInflection;es;N_17;17.[masc, fém] + {-(e)s}: un presidente, una presidenta;un presidente, una presidenta, (unos|unas) presidentes
+NIS2;2;NounInflection;es;N_2;2. MASC árbol árboles;masc, consonante, tonique ¬é (árbol árboles, tabú)
+NIS3;3;NounInflection;es;N_3;3. MASC lunes (invariable);invariable (crisis, lunes, tórax, clímax)
+NIS4;4;NounInflection;es;N_4;4. FEM casa, casas;fem, atone ou é (casa casas)
+NIS5;5;NounInflection;es;N_5;5. FEM capital, capitales;fem, consonante, tonique ¬é (capital capitales, hoz)
+NIS6;6;NounInflection;es;N_6;6. FEM crisis (invariable);crisis (invariable)
+NIS7;7;NounInflection;es;N_7;7. MASC+FEM acróbata, acróbatas;acróbata, acróbatas
+NIS8;8;NounInflection;es;N_8;8. MASC+FEM aprendiz, aprendices;aprendiz, aprendices
+NOF0;0;NounFeature;;human;human;man
+NOF1;1;NounFeature;;animate;animate;cat
+NOF10;10;NounFeature;;physicalObject;physicalObject;book
+NOF11;11;NounFeature;;actionNoun;action;strike
+NOF12;12;NounFeature;;massNoun;mass;milk
+NOF13;13;NounFeature;;countNoun;count;members
+NOF14;14;NounFeature;;collective;collective;team
+NOF15;15;NounFeature;;detLess;detLess;
+NOF16;16;NounFeature;;notDetLess;notDetLess;
+NOF17;17;NounFeature;;country;country;Bhoutan
+NOF18;18;NounFeature;;town;town;Paris
+NOF19;19;NounFeature;;river;river;Gange
+NOF2;2;NounFeature;;quantity;quantity;kilo
+NOF20;20;NounFeature;;mountain;mountain;K2
+NOF21;21;NounFeature;;people;people;John
+NOF22;22;NounFeature;;corporation;corporation;IBM
+NOF23;23;NounFeature;;bodyPart;bodyPart;foot
+NOF24;24;NounFeature;;title;title;Mister, General X
+NOF25;25;NounFeature;;functionName;functionName;Conseiller, avocat, président, etc.
+NOF26;26;NounFeature;;deverbal;deverbal;nominalisation a partir d'un verbe
+NOF27;27;NounFeature;;nomModifieur;nomModifieur;temps "record"
+NOF28;28;NounFeature;;characterName;characterName;the letter "s", digits, etc.
+NOF29;29;NounFeature;;pointCardinal;pointCardinal;Est... utile pour le traitement de "est"
+NOF3;3;NounFeature;;timeNoun;time;day, hour
+NOF30;30;NounFeature;en,fr,de,it;internetName;internetName;latl@lettres.unige.ch
+NOF4;4;NounFeature;;dayNoun;day;Monday
+NOF5;5;NounFeature;;monthNoun;month;May
+NOF6;6;NounFeature;;weightNoun;weight;kilo
+NOF7;7;NounFeature;;lengthNoun;length;foot
+NOF8;8;NounFeature;;locationNoun;location;office
+NOF9;9;NounFeature;;abstract;abstract;freedom
+NOS30;30;NounFeature;es;specialAgreement;specialAgreement;ala (masc det)
+NOU0;0;NounType;;pronoun;pronoun;them
+NOU1;1;NounType;;commonNoun;common;table
+NOU2;2;NounType;;properNoun;proper;John
+NPF4;4;NPFeature;fr,es;bodyPartNP;bodyPart;body part
+NPF5;5;NPFeature;fr;fnf6;fnf6;
+NPF6;6;NPFeature;fr;fnf7;fnf7;
+NUM0;0;Number;;singular;sing;
+NUM1;1;Number;;plural;plur;
+PAE0;0;Particle;en;aboutPtl;about;
+PAE-1;-1;Particle;en,de,rm;noParticlePtl;-;pour les verbes sans particule
+PAE1;1;Particle;en;acrossPtl;across;
+PAE10;24;Particle;en;behindPtl;behind;
+PAE11;5;Particle;en;byPtl;by;
+PAE12;6;Particle;en;downPtl;down;
+PAE13;22;Particle;en;forthPtl;forth;
+PAE14;7;Particle;en;forwardPtl;forward;
+PAE15;8;Particle;en;inPtl;in;
+PAE16;9;Particle;en;offPtl;off;
+PAE2;2;Particle;en;afterPtl;after;
+PAE20;11;Particle;en;outPtl;out;
+PAE21;12;Particle;en;overPtl;over;
+PAE22;10;Particle;en;onPtl;on;
+PAE23;25;Particle;en;pastPtl;past;
+PAE24;13;Particle;en;roundPtl;round;
+PAE25;14;Particle;en;throughPtl;through;
+PAE26;15;Particle;en;toPtl;to;
+PAE27;20;Particle;en;togetherPtl;together;
+PAE29;26;Particle;en;underPtl;under;
+PAE3;18;Particle;en;aheadPtl;ahead;
+PAE30;16;Particle;en;upPtl;up;
+PAE31;27;Particle;en;uponPtl;upon;
+PAE4;17;Particle;en;alongPtl;along;
+PAE5;19;Particle;en;apartPtl;apart;
+PAE6;21;Particle;en;aroundPtl;around;
+PAE7;23;Particle;en;asidePtl;aside;
+PAE8;3;Particle;en;awayPtl;away;
+PAE9;4;Particle;en;backPtl;back;
+PAGx00;37;Particle;de;vollPrtl;voll;
+PAGx01;43;Particle;de;voranPrtl;voran;
+PAGx02;77;Particle;de;reinPrtl;rein;
+PAGx03;100;Particle;de;schiefPrtl;schief;
+PAGx04;114;Particle;de;schwarzPrtl;schwarz;
+PAGx05;99;Particle;de;schwerPrtl;schwer;
+PAGx06;81;Particle;de;sicherPrtl;sicher;
+PAGx07;98;Particle;de;standPrtl;stand;
+PAGx08;68;Particle;de;stattPrtl;statt;
+PAGx09;85;Particle;de;stehenPrtl;stehen;inseparable
+PAGx10;83;Particle;de;stillPrtl;still;
+PAGx11;74;Particle;de;teilPrtl;teil;
+PAGx12;112;Particle;de;totPrtl;tot;
+PAGx13;44;Particle;de;überanPrtl;überan;inseparable
+PAGx14;50;Particle;de;vorausPrtl;voraus;
+PAGx15;52;Particle;de;vorbeiPrtl;vorbei;
+PAGx16;26;Particle;de;vorPrtl;vor;
+PAGx17;66;Particle;de;vorüberPrtl;vorüber;
+PAGx18;65;Particle;de;vorzuPrtl;vorzu;
+PAGx19;64;Particle;de;vorwegPrtl;vorweg;
+PAGx20;82;Particle;de;wahrPrtl;wahr;
+PAGx21;118;Particle;de;zurechtPrtl;zurecht;
+PAGx22;117;Particle;de;vorherPrtl;vorher;
+PAG011;11;Particle;de;abPrtl;ab;separable
+PAG012;12;Particle;de;anPrtl;an;
+PAG013;13;Particle;de;aufPrtl;auf;
+PAG014;90;Particle;de;aufrechtPrtl;aufrecht;
+PAG015;14;Particle;de;ausPrtl;aus;
+PAG016;87;Particle;de;auseinanderPrtl;auseinander;
+PAG017;15;Particle;de;beiPrtl;bei;
+PAG018;86;Particle;de;bekanntPrtl;bekannt;
+PAG019;93;Particle;de;bereitPrtl;bereit;
+PAG020;96;Particle;de;bevorPrtl;bevor;
+PAG021;69;Particle;de;darPrtl;dar;particules mixtes
+PAG022;104;Particle;de;daranPrtl;daran;
+PAG023;115;Particle;de;davonPrtl;davon;
+PAG024;121;Particle;de;dazuPrtl;dazu;
+PAG025;116;Particle;de;dichtPrtl;dicht;
+PAG026;32;Particle;de;durchPrtl;durch;
+PAG027;120;Particle;de;durcheinanderPrtl;durcheinander;
+PAG028;16;Particle;de;einPrtl;ein;
+PAG029;91;Particle;de;einherPrtl;einher;
+PAG030;17;Particle;de;emporPrtl;empor;
+PAG031;18;Particle;de;entgegenPrtl;entgegen;
+PAG032;94;Particle;de;fehlPrtl;fehl;
+PAG033;71;Particle;de;fernPrtl;fern;
+PAG034;72;Particle;de;festPrtl;fest;
+PAG035;97;Particle;de;fertigPrtl;fertig;
+PAG036;19;Particle;de;fortPrtl;fort;
+PAG037;80;Particle;de;freiPrtl;frei;
+PAG038;108;Particle;de;gegenPrtl;gegen;
+PAG039;95;Particle;de;gegenuberPrtl;gegenüber;
+PAG040;92;Particle;de;gleichPrtl;gleich;
+PAG041;84;Particle;de;gutPrtl;gut;
+PAG042;70;Particle;de;heimPrtl;heim;
+PAG043;39;Particle;de;herabPrtl;herab;
+PAG044;41;Particle;de;heranPrtl;heran;
+PAG045;45;Particle;de;heraufPrtl;herauf;
+PAG046;48;Particle;de;herausPrtl;heraus;
+PAG047;51;Particle;de;herbeiPrtl;herbei;
+PAG048;53;Particle;de;hereinPrtl;herein;
+PAG049;21;Particle;de;herPrtl;her;
+PAG050;58;Particle;de;herumPrtl;herum;
+PAG051;59;Particle;de;herunterPrtl;herunter;
+PAG052;56;Particle;de;hervorPrtl;hervor;
+PAG053;40;Particle;de;hinabPrtl;hinab;
+PAG054;42;Particle;de;hinanPrtl;hinan;
+PAG055;46;Particle;de;hinaufPrtl;hinauf;
+PAG056;49;Particle;de;hinausPrtl;hinaus;
+PAG057;54;Particle;de;hineinPrtl;hinein;
+PAG058;20;Particle;de;hinPrtl;hin;
+PAG059;33;Particle;de;hinterPrtl;hinter;
+PAG060;62;Particle;de;hinüberPrtl;hinüber;
+PAG061;63;Particle;de;hinunterPrtl;hinunter;
+PAG062;60;Particle;de;hinwegPrtl;hinweg;
+PAG063;61;Particle;de;hinzuPrtl;hinzu;
+PAG064;101;Particle;de;hochPrtl;hoch;
+PAG065;109;Particle;de;innePrtl;inne;
+PAG066;106;Particle;de;irrePrtl;irre;
+PAG067;79;Particle;de;kaputtPrtl;kaputt;
+PAG068;88;Particle;de;kennenPrtl;kennen;
+PAG069;89;Particle;de;klarPrtl;klar;
+PAG070;113;Particle;de;kundPrtl;kund;
+PAG071;111;Particle;de;lockerPrtl;locker;
+PAG072;22;Particle;de;losPrtl;los;
+PAG073;105;Particle;de;lahmPrtl;lahm;
+PAG074;23;Particle;de;mitPrtl;mit;
+PAG075;24;Particle;de;nachPrtl;nach;
+PAG076;102;Particle;de;nahePrtl;nahe;
+PAG077;122;Particle;de;näherPrtl;näher;
+PAG078;25;Particle;de;niederPrtl;nieder;
+PAG079;107;Particle;de;offenPrtl;offen;
+PAG080;103;Particle;de;pleitePrtl;pleite;
+PAG081;76;Particle;de;rausPrtl;raus;
+PAG082;55;Particle;de;übereinPrtl;überein;
+PAG083;35;Particle;de;ueberPrtl;über;
+PAG084;119;Particle;de;übrigPrtl;übrig;
+PAG085;34;Particle;de;umPrtl;um;
+PAG086;78;Particle;de;umherPrtl;umher;
+PAG087;38;Particle;de;widerPrtl;wider;
+PAG088;27;Particle;de;wegPrtl;weg;
+PAG089;73;Particle;de;wehPrtl;weh;
+PAG090;28;Particle;de;weiterPrtl;weiter;
+PAG091;110;Particle;de;wettPrtl;wett;
+PAG092;47;Particle;de;wiederaufPrtl;wiederauf;
+PAG093;57;Particle;de;wiederherPrtl;wiederher;
+PAG094;29;Particle;de;wiederPrtl;wieder;
+PAG095;30;Particle;de;zuPrtl;zu;
+PAG096;31;Particle;de;zurueckPrtl;zurück;
+PAG097;75;Particle;de;zusammenPrtl;zusammen;
+PAG098;67;Particle;de;zuwiderPrtl;zuwider;
+PAG099;36;Particle;de;unterPrtl;unter;
+PAR0;0;Particle;rm;anavosPtl;anavos;
+PAR1;1;Particle;rm;avonPtl;avon;
+PAR10;10;Particle;rm;neuPtl;neu;
+PAR11;11;Particle;rm;oraPtl;or/ora;
+PAR12;12;Particle;rm;siPtl;si;
+PAR13;13;Particle;rm;suenterPtl;suenter;
+PAR14;14;Particle;rm;tierPtl;tier;
+PAR15;15;Particle;rm;viPtl;vi;
+PAR16;16;Particle;rm;vinavonPtl;vinavon;
+PAR17;17;Particle;rm;anavonPtl;anavon;
+PAR2;2;Particle;rm;atrasPtl;atras;
+PAR3;3;Particle;rm;enPtl;en;
+PAR4;4;Particle;rm;encunterPtl;encunter;
+PAR5;5;Particle;rm;engiuPtl;engiu;
+PAR6;6;Particle;rm;entuornPtl;entuorn;
+PAR7;7;Particle;rm;ensemenPtl;ensemen;
+PAR8;8;Particle;rm;giuPtl;giu;
+PAR9;9;Particle;rm;navenPtl;naven;
+PER1;1;Person;;1;1;
+PER2;2;Person;;2;2;
+PER3;3;Person;;3;3;
+PER4;4;Person;;4;4;
+PER5;5;Person;;5;5;
+PER6;6;Person;;6;6;
+PFE0;0;PronounFeature;es;cuyoFlag;cuyoFlag;
+PFE10;23;PronounFeature;;polarityItem;polarityItem;
+PFE19;19;PronounFeature;;relativePronoun;relativePronoun;
+PFE20;20;PronounFeature;;interrogativePronoun;interrogativePronoun;
+PFE25;25;PronounFeature;fr;cePrésentatif;cePrésentatif;
+PFE26;26;PronounFeature;fr;quePronom;quePronom;
+PFE27;27;PronounFeature;fr;dontPronom;dontPronom;
+PFE28;22;PronounFeature;;floatingQuantifier;floatingQuantifier;
+PFE29;28;PronounFeature;;nominalRelative;nominalRelative;
+PPR0;10;PersonalPronounType;fr,es,it,la,pt;weakPronoun;weakPronoun;je, tu, il, on
+PPR1;11;PersonalPronounType;fr,es,it,pt;strongPronoun;strongPronoun;moi, toi, lui, eux
+PPR2;12;PersonalPronounType;fr,es,it,pt;mixedPronoun;mixedPronoun;elle, nous, vous
+PRE0;0;PrepositionType;;timeP;time;
+PRE1;1;PrepositionType;;locationP;location;
+PRE10;10;PrepositionType;en,de;particle;particle;
+PRE11;11;PrepositionType;;intervalP;interval;from..to de..a
+PRE12;12;PrepositionType;;causeP;cause;
+PRE13;13;PrepositionType;;comparisonP;comparison;
+PRE14;14;PrepositionType;eo;quantityP;quantity;
+PRE15;15;PrepositionType;;contractedP;contractedPrep;zum
+PRE16;16;PrepositionType;pt;contractedIndefP;contractedIndefinitePrep;num, dum
+PRE17;16;PrepositionType;eo;companyP;company;accompagnement
+PRE18;17;PrepositionType;eo;materialP;material;
+PRE19;18;PrepositionType;eo;concernP;concern;
+PRE2;2;PrepositionType;;directionP;direction;
+PRE20;19;PrepositionType;;postpositionP;postposition;
+PRE3;3;PrepositionType;;origineP;origine;
+PRE4;4;PrepositionType;;instrumentP;instrument;
+PRE5;5;PrepositionType;;agentP;agent;
+PRE6;6;PrepositionType;;oppositionP;opposition;
+PRE7;7;PrepositionType;;goalP;goal;
+PRE8;8;PrepositionType;;possP;poss;possessor in inalienable poss. Jean touche la tete a Paul
+PRE9;9;PrepositionType;;otherP;other;utilise lorsque non pertinent
+PRF0;0;PredFeature;;predicativeAP;predicativeAP;
+PRF1;1;PredFeature;;predicativeAdvP;predicativeAdvP;
+PRF2;2;PredFeature;;predicativePP;predicativePP;considérer qqun comme brillant
+PRF3;3;PredFeature;;predicativeNP;predicativeNP;
+PRF4;4;PredFeature;;predicativeDP;predicativeDP;
+PRF8;8;PredFeature;;prepHead;prepHead;
+PRI21;21;PrepositionSelection;it;diComplP;diComplP;prép. complexe + compl di, a bordo di, fuori di
+PRI22;22;PrepositionSelection;it;aComplP;aComplP;prép. complexe + compl a, fino a
+PRI23;23;PrepositionSelection;it;daComplP;daComplP;prép. complexe + compl di, di qua da
+PRI25;24;PrepositionSelection;it;conCompl;conComplP;prép. complexe + compl con, insieme con
+PRO0;0;PronounType;;whPronoun;whPronoun;who
+PRO1;1;PronounType;;possessive;possessive;mine
+PRO10;10;PronounType;en;thereExpletive;thereExpletive;THERE seems to be a man on the phone
+PRO11;11;PronounType;en;cleftExpletive;cleftExpletive;IT/THAT was John who called
+PRO12;12;PronounType;en;itExpletive;itExpletive;IT was apparent that John called
+PRO13;13;PronounType;en;indepPossessive;indepPossessive;that book of HERS/her
+PRO2;2;PronounType;en,fr,de,it,la,pt;demonstrative;demonstrative;those
+PRO3;3;PronounType;;reflexive;reflexive;yourself
+PRO4;4;PronounType;;reciprocal;reciprocal;each other
+PRO5;5;PronounType;;personal;personal;you
+PRO6;6;PronounType;;indefinite;indefinite;one, quelque chose
+PRO7;7;PronounType;fr,it,es;clitic;clitic;fr. se
+PRO8;8;PronounType;fr;mixt;mixt;fr. lui
+PRO9;9;PronounType;en;proPP;proPP;John put the phone THERE
+PRS0;0;PredSelection;de;finiteVP;finiteVP;
+PRS1;1;PredSelection;de;infWithZu;infWithZu;
+PRS10;10;PrepositionSelection;;intervalP;intervalP;from..to; de..à
+PRS11;11;PrepositionSelection;;locationComplP;locationComplP;prép complexe + compl "location", jusque là-bas
+PRS2;2;PronounType;es;pronomDemonstratifProche;demonstratifProche;este
+PRS20;20;PrepositionSelection;;SComplP;SComplP;prép. avec complément phrase, pour, sans
+PRS21;21;PrepositionSelection;fr,es,pt;deComplP;deComplP;prép. complexe + compl de, au sein de
+PRS22;22;PrepositionSelection;fr,es,pt;aComplP;aComplP;prép complexe + compl à, grâce à
+PRS24;24;PrepositionSelection;fr;pronominalP;pronominalP;
+PRS8;8;PronounType;es;pronomDemonstratifLointain;demonstratifLointain;aquel
+PRS9;9;PronounType;es;pronomDemonstratifMixte;demonstratifMixte;ese, eso, esa
+QTD0;0;QuantifierType;de;jedermann;jedermann;
+QTD1;1;QuantifierType;de;jedweder;jedweder;
+QTD10;10;QuantifierType;de;wenig;wenig;
+QTD11;11;QuantifierType;de;alle;alle;
+QTD12;12;QuantifierType;de;jeder;jeder;
+QTD13;13;QuantifierType;de;mancher;mancher;
+QTD14;14;QuantifierType;de;kein;kein;
+QTD15;15;QuantifierType;de;ein;ein;
+QTD16;16;QuantifierType;de;welcher;welcher;
+QTD2;2;QuantifierType;de;jeglicher;jeglicher;
+QTD3;3;QuantifierType;de;jemand;jemand;
+QTD4;4;QuantifierType;de;niemand;niemand;
+QTD5;5;QuantifierType;de;etwas;etwas;
+QTD6;6;QuantifierType;de;nichts;nichts;
+QTD7;7;QuantifierType;de;einige;einige;
+QTD8;8;QuantifierType;de;mehrere;mehrere;
+QTD9;9;QuantifierType;de;viel;viel;
+QTE0;0;QuantifierType;es;cadaUno;cada uno;
+QTE1;1;QuantifierType;es;todos;todos;
+QTF0;0;QuantifierType;fr;chacun;chacun;
+QTF1;1;QuantifierType;fr;tous;tous;
+QUF0;0;QuantifierFeature;;distributiveQ;distributiveQ;
+QUF1;1;QuantifierFeature;;nonDistributiveQ;nonDistributiveQ;
+QUT0;0;QuantifierType;en;everyone;everyone;
+QUT1;1;QuantifierType;en;everybody;everybody;
+QUT10;10;QuantifierType;en;nobody;nobody;
+QUT11;11;QuantifierType;en;nothing;nothing;
+QUT12;12;QuantifierType;en;neither;neither;
+QUT2;2;QuantifierType;en;everything;everything;
+QUT3;3;QuantifierType;en;someone;someone;
+QUT4;4;QuantifierType;en;somebody;somebody;
+QUT5;5;QuantifierType;en;something;something;
+QUT6;6;QuantifierType;en;anyone;anyone;
+QUT7;7;QuantifierType;en;anybody;anybody;
+QUT8;8;QuantifierType;en;anything;anything;
+QUT9;9;QuantifierType;en;noone;noone;
+SCT00;0;SubCatType;;Intransitive;[NP _];subject
+SCT01;20;SubCatType;;NP;[NP _ NP];subject directObject
+SCT02;30;SubCatType;;PP;[NP _ PP];subject PrepObject
+SCT03;10;SubCatType;de,pt;NP;[NP _ iNP];subject indirectObject
+SCT04;50;SubCatType;;FP;[NP _ FP];subject PredObject
+SCT05;60;SubCatType;;S;[NP _ S];subject Sobject
+SCT06;320;SubCatType;;NP_PP;[NP _ NP PP];subject directObject PrepObject
+SCT07;310;SubCatType;de;NP_PP;[NP _ iNP PP];subject indirectObject PrepObject
+SCT08;210;SubCatType;en,de,la;NP_NP;[NP _ iNP NP];subject indirectObject directObject
+SCT09;510;SubCatType;de;NP_FP;[NP _ iNP FP];subject indirectObject PredObject
+SCT10;520;SubCatType;;NP_FP;[NP _ NP FP];subject directObject PredObject
+SCT11;620;SubCatType;;NP_S;[NP _ NP S];subject directObject Sobject
+SCT12;610;SubCatType;de;NP_S;[NP _ iNP S];subject indirectObject Sobject
+SCT13;330;SubCatType;;PP_PP;[NP _ PP PP];subject PrepObject PrepObject
+SCT14;630;SubCatType;;PP_S;[NP _ PP S];subject PrepObject Sobject
+SCT15;350;SubCatType;;FP_PP;[NP _ FP PP];subject directObject PredObject
+SCT16;650;SubCatType;;FP_S;[NP _ FP S];PredObject Sobject
+SCT17;220;SubCatType;de;NP_NP;[NP _ NP NP];subject directObject directObject
+SCT18;1;SubCatType;;ERG;[_] ERG;directObject
+SCT19;6320;SubCatType;;NP_PP;[NP _ NP PP S];subject directObject PrepObject Sobject
+SCT20;6350;SubCatType;;NP_FP;[NP _ FP PP S];subject PredObject PrepObject Sobject - il me semble possible
+SCT99;11;SubCatType;it;undefined;undefined;pas de sous cat actuellement pour l'italien
+SFE0;0;SFeature;;tensedS;tensedS;I know that you know
+SFE1;1;SFeature;;infinitivalS;infinitivalS;I try do it
+SFE2;2;SFeature;en;infinitivalLessTo;infinitivalLessTo;I saw him do it
+SFE3;3;SFeature;;interrogativeS;interrogativeS;I wonder who did it
+SFE4;4;SFeature;en,es;gerundiveS;gerundiveS;I like swimming
+SFE5;5;SFeature;en,fr,es,pt;subjunctiveS;subjunctiveS;I require it be done
+SFE6;6;SFeature;en;gerundiveSwithPrep;gerundiveSwithPrep;fear of swimming
+SFE7;7;SFeature;en;interrogativeSwithPrep;interrogativeSwithPrep;
+SFE8;8;SFeature;en;passiveInfinitivalS;passiveInfinitivalS;this remains to be seen
+SFF2;11;SFeature;fr;deComplementS;deComplementS;
+SFF4;10;SFeature;fr;aComplementS;aComplementS;
+SFF6;12;SFeature;fr;parComplementS;parComplementS;
+SFF7;13;SFeature;fr;pourComplementS;pourComplementS;il en profite pour s'éclipser
+SFG2;2;SFeature;de;infinitiveWithoutZu;infinitiveWithoutZu;
+SFG4;4;SFeature;de;conjunctiveIndirSpeech;conjunctiveIndirSpeech;
+SFI10;10;SFeature;it;pastpartS;pastpartS;
+SFI11;5;SFeature;it;congiuntivoS;congiuntivoS;
+SFI12;13;SFeature;it;infinitivaSin;infinitivaSin;
+SFI13;17;SFeature;it;infinitivaSsu;infinitivaSsu;
+SFI2;12;SFeature;it;infinitivaSdi;infinitivaSdi;
+SFI4;14;SFeature;it;infinitivaSda;infinitivaSda;
+SFI5;15;SFeature;it;infinitivaSper;infinitivaSper;
+SFI6;16;SFeature;it;infinitivaSsenza;infinitivaSsenza;
+SFI8;11;SFeature;it;infinitivaSa;infinitivaSa;
+SFI9;4;SFeature;it;itGerundiveS;itGerundiveS;
+SFL2;2;SFeature;la;infinitivalS_ACI;infinitivalS_ACI;
+SFPP10;10;SFeature;pt;aComplementS;aComplementS;
+SFPP11;11;SFeature;pt;comComplementS;comComplementS;
+SFPP12;12;SFeature;pt;deComplementS;deComplementS;
+SFPP13;13;SFeature;pt;paraComplementS;paraComplementS;
+SFPP14;14;SFeature;pt;emComplementS;emComplementS;
+SFPP15;15;SFeature;pt;porComplementS;porComplementS;
+SFP12;12;Sfeature;pt;deInfinitivalS;deInfinitivalS;
+SFP13;13;Sfeature;pt;aInfinitivalS;aInfinitivalS;
+SFP14;14;Sfeature;pt;paraInfinitivalS;paraInfinitivalS;
+SFS10;10;SFeature;es;aComplementS;aComplementS;
+SFS11;11;SFeature;es;conComplementS;conComplementS;
+SFS12;12;SFeature;es;deComplementS;deComplementS;
+SFS6;15;SFeature;es;enComplementS;enComplementS;
+SFS7;14;SFeature;es;paraComplementS;paraComplementS;
+SFS8;13;SFeature;es;porComplementS;porComplementS;
+SFS9;16;SFeature;es;infinitivalSque;infinitivalSque;
+SNF00;0;SNFeature;sn;laterality;laterality;
+SNF01;1;SNFeature;sn;findingSite;findingSite;
+SNF02;2;SNFeature;sn;severity;severity;
+SNF03;3;SNFeature;sn;method;method;
+SNF04;4;SNFeature;sn;procedure;procedure;
+SNF5;5;NPFeature;es;snf6;snf6;
+SNF6;6;NPFeature;es;snf7;snf7;
+STA0;0;SubCatTypeNandAdj;;noArg;noArg;nom ou adjectif sans argument
+STA1;3;SubCatTypeNandAdj;;PP1;[_ PP];PrepObject
+STA2;6;SubCatTypeNandAdj;;S1;[_ S];Sobject
+STA3;2;SubCatTypeNandAdj;;NP;[_ NP];indirect object
+TEE0;0;Tense;en;infinitive;infinitive;
+TEE1;1;Tense;en,eo,fr,la,rm,pt;present;present;
+TEE2;2;Tense;en;past;past;
+TEE3;3;Tense;en;pastParticiple;pastParticiple;
+TEE4;4;Tense;en;presentParticiple;presentParticiple;
+TEE5;5;Tense;en;future;future;
+TEE6;6;Tense;en;conditional;conditional;
+TEG0;0;Tense;de;infinitiv;infinitiv;
+TEG1;1;Tense;de;praesens;praesens;
+TEG2;2;Tense;de;praeteritum;praeteritum;
+TEG3;3;Tense;de;partizipPerfekt;partizipPerfekt;
+TEG4;4;Tense;de;partizipPraesens;partizipPraesens;
+TEG5;5;Tense;de;futur_1;futur_1;
+TEG6;6;Tense;de;infinitivPerfekt;infinitivPerfekt;
+TEG7;7;Tense;de;perfekt;perfekt;
+TEG8;8;Tense;de;plusQuamPerfekt;plusQuamPerfekt;
+TEG9;9;Tense;de;futur2;futur2;
+TEI0;0;Tense;it;infinito;infinito;
+TEI1;1;Tense;it;presente;presente;
+TEI10;10;Tense;it;infinitoPassato;infinitoPassato;
+TEI11;11;Tense;it;passProssimo;passProssimo;
+TEI12;12;Tense;it;trapassProssimo;trapassProssimo;
+TEI13;13;Tense;it;trapassRemoto;trapassRemoto;
+TEI14;14;Tense;it;futuroAnteriore;futuroAnteriore;
+TEI2;2;Tense;it;imperfetto;imperfetto;
+TEI3;3;Tense;it;passRemoto;passRemoto;
+TEI4;4;Tense;it;futuroSemplice;futuroSemplice;
+TEI5;5;Tense;it;participioPresente;participioPresente;
+TEI6;6;Tense;it;participioPassato;participioPassato;
+TEI7;7;Tense;it,rm;gerundio;gerundio;
+TEL3;3;Tense;la;futur;futur;
+TEL4;4;Tense;la;participePasse;participePasse;
+TEL5;5;Tense;la;infinitifPasse;infinitifPassé;
+TEL6;6;Tense;la;parfait;parfait;
+TEL7;7;Tense;la,pt;plusQueParfait;plusQueParfait;
+TEL8;8;Tense;la;futurAnterieur;futurAnterieur;
+TEL9;9;Tense;la;participePresent;participePresent;
+TEN0;0;Tense;eo,fr,la,rm,pt;infinitif;infinitif;
+TEN10;10;Tense;fr;infinitifPasse;infinitifPasse;
+TEN11;11;Tense;fr;passeCompose;passeCompose;
+TEN12;12;Tense;fr;plusQueParfait;plusQueParfait;
+TEN13;13;Tense;fr;passeAnterieur;passeAnterieur;
+TEN14;14;Tense;fr;futurAnterieur;futurAnterieur;
+TEN15;15;Tense;fr;participePresentPasse;participePresentPasse;
+TEN2;2;Tense;fr,la,rm,pt;imparfait;imparfait;
+TEN3;3;Tense;fr,pt;passeSimple;passeSimple;
+TEN4;4;Tense;eo,fr,pt;futur;futur;
+TEN5;5;Tense;eo,fr;participePresent;participePresent;
+TEN6;6;Tense;eo,fr;participePasse;participePasse;
+TEO2;2;Tense;eo;passé;passé;
+TEO7;7;Tense;eo;participeFutur;participeFutur;
+TEO8;8;Tense;eo;volitif;volitif;
+TEO9;9;Tense;eo;fictif;fictif;
+TEP10;10;Tense;pt;imperatifNegatif;imperatifNegatif;
+TEP5;5;Tense;pt;participePresent;participePrésent;
+TEP6;6;Tense;pt;participePasse;participePassé;
+TEP8;8;Tense;pt;infinitifPersonnel;infinitifPersonnel;
+TEP9;9;Tense;pt;imperatifAffirmatif;imperatifAffirmatif;
+TER5;5;Tense;rm;partPassAttr;partPassAttr;habitau
+TER6;6;Tense;rm;partPassPred;partPassPred;habitaus
+TES0;0;Tense;es;infinitivo;infinitivo;amar
+TES1;1;Tense;es;presente;presente;amo
+TES2;2;Tense;es;pretéritoImperfecto;pretéritoImperfecto;amaba
+TES3;3;Tense;es;perfectoSimple;perfectoSimple;amé
+TES4;4;Tense;es;futuro;futuro;amaré
+TES5;5;Tense;es;gerundio;gerundio;amando
+TES6;6;Tense;es;participio;participio;amado
+TES7;7;Tense;es;pretéritoImperfectoSe;pretéritoImperfectoSe;
+THF0;0;ThematicFunction;;agent;agent;
+THF1;1;ThematicFunction;;patient;patient;
+THF10;10;ThematicFunction;;undefined;undefined;
+THF2;2;ThematicFunction;;theme;theme;
+THF3;3;ThematicFunction;;goal;goal;
+THF4;4;ThematicFunction;;predication;predication;
+THF5;5;ThematicFunction;;theta6;theta6;internalized subject
+THF6;6;ThematicFunction;;possessor;possessor;possessor in inalien. poss
+THF7;7;ThematicFunction;;theta8;theta8;à éliminer !
+VAL0;45;Value;;vManner;Manner;
+VAL1;32;Value;;vComparison;Comparison;
+VAL10;33;Value;;vConcession;Concession;
+VAL11;42;Value;;vNegation;Negation;
+VAL12;43;Value;;vUnion;Union;
+VAL13;44;Value;;vAlternative;Alternative;
+VAL14;46;Value;;vIntensity;Intensity;
+VAL15;47;Value;;vExplanation;Explanation;
+VAL16;48;Value;;vCorrelation;Correlation;
+VAL17;49;Value;;vCompl;Compl;
+VAL18;50;Value;;vWhcompl;Whcompl;
+VAL19;51;Value;;vParticipial;Participial;
+VAL2;34;Value;;vCondition;Condition;
+VAL20;52;Value;;vGerund;Gerund;
+VAL21;53;Value;;vDegree;Degree;
+VAL22;54;Value;;vFrequency;Frequency;
+VAL23;55;Value;;vQuantifier;Quantifier;
+VAL24;56;Value;;vUnspecified;Unspecified;
+VAL25;57;Value;;vDirection;Direction;
+VAL3;35;Value;;vConsequence;Consequence;
+VAL4;36;Value;;vLimitation;Limitation;
+VAL5;37;Value;;vPurpose;Purpose;
+VAL6;38;Value;;vCause;Cause;
+VAL7;39;Value;;vTime;Time;
+VAL8;40;Value;;vLocation;Location;
+VAL9;41;Value;;vAffirmation;Affirmation;
+VAR0;0;VariantType;;graphieAlternative;graphieAlternative;f: ciels cieux, e: dreamt, dreamed
+VAR1;1;VariantType;;nouvelleGraphie;nouvelleGraphie;réforme de l'orthographe, p.e. aout
+VAR2;2;VariantType;;vielli;vielli;aïeux
+VAR3;3;VariantType;en;britishEnglish;britishEnglish;behaviour, centre
+VAR4;4;VariantType;en;americanEnglish;americanEnglish;apologize, behavior, center
+VEE10;10;VerbSynFeature;en,de;particleV;particleV;
+VEE11;18;VerbSynFeature;en;beV;beV;
+VEE12;11;VerbSynFeature;en;toughVerb;toughVerb;... en attendant le split avec les sem features
+VEE19;19;VerbSynFeature;de,en;indirectObjectControl;indirectObjectControl;empfehlen, helfen
+VEF0;0;VerbSynFeature;;ergativeV;ergative;verbe ergatif, parvenir
+VEF1;1;VerbSynFeature;;subjectControlV;subjectControl;verbe a controle du sujet, promettre
+VEF10;10;VerbSynFeature;fr;inherentYV;inherentY;verbe avec clitique y inherent, y avoir
+VEF11;11;VerbSynFeature;fr;etreAuxV;etreAuxiliary;verbe selectionant l'auxiliaire etre
+VEF12;12;VerbSynFeature;;noPassiveV;noPassive;verbe resistant au passif, avoir
+VEF13;13;VerbSynFeature;fr,it;PI1V;PI1;possession inalienable de type 1, lever
+VEF14;14;VerbSynFeature;fr,it;PI2V;PI2;possession inalienable de type 2, se casser
+VEF15;15;VerbSynFeature;fr;presentatifV;presentatif;presentatif "voici" et "voila"
+VEF16;16;VerbSynFeature;;impersonnelV;impersonnel;verbe a sujet impersonnel "falloir"
+VEF17;17;VerbSynFeature;fr;inherentLeClV;inherentLeCl;
+VEF18;18;VerbSynFeature;fr;êtreVerb;êtreVerb;pour marquer le verbe être
+VEF19;19;VerbSynFeature;fr;toughVerb;toughVerb;
+VEF2;2;VerbSynFeature;;objectControlV;objectControl;verbe a controle de l'objet, persuader
+VEF20;20;VerbSemFeature;;etatV;etat;verbe d'etat, d'existence, de location, etc.
+VEF21;21;VerbSemFeature;;mouvementV;mouvement;verbe de mouvement, venir, aller *)
+VEF22;22;VerbSemFeature;;declaratifV;declaratif;verbe declaratif, dire, parler, declarer
+VEF23;23;VerbSemFeature;;actionAtelicV;actionAtelic;verbe d'action avec activite continue
+VEF24;24;VerbSemFeature;;actionTelicV;actionTelic;verbe d'action aboutissant a un etat
+VEF25;25;VerbSemFeature;;psychologiqueV;psychologique;verbe psychologique, aimer, ha?r
+VEF26;26;VerbSemFeature;;factifV;factif;verbe factif, regretter, souhaiter
+VEF27;27;VerbSemFeature;;epistemiqueV;epistemique;verbe de connaissance, de perception
+VEF28;28;VerbSemFeature;;meteorologiqueV;meteorologique;verbe meteorologique, pleuvoir, neiger
+VEF29;29;VerbSemFeature;;modalV;modal;verbe modal, devoir, pouvoir
+VEF3;3;VerbSynFeature;;prepObjectControlV;prepObjectControl;verbe a control du PP, conseiller a
+VEF30;30;VerbSemFeature;;perceptionV;perception;verbe de perception, regarder, voir
+VEF31;31;VerbSemFeature;;genericV;generic;verbe generique, ha?r, aimer, etc.
+VEF4;4;VerbSynFeature;;arbitraryControlV;arbitraryControl;verbe a controle arbitraire, se demander
+VEF5;5;VerbSynFeature;;raisingV;raising;verbe a montee, sembler, paraitre
+VEF6;6;VerbSynFeature;;ECMV;ECM;marquage de cas exceptionnel, regarder
+VEF7;7;VerbSynFeature;;restructurationV;restructuration;verbe causatif, faire, laisser, voir
+VEF8;8;VerbSynFeature;fr,de,it,es,rm,pt;pronominalV;pronominal;verbe essentiellement pronominal, se suicider
+VEF9;9;VerbSynFeature;fr;inherentEnV;inherentEn;verbe avec clitique en inhn., s'en aller
+VEG11;11;VerbSynFeature;de;auxiliarySein;seinAuxiliary;verbe selectionant l'auxiliaire sein
+VEG13;13;VerbSynFeature;de;habenOderSeinAuxV;habenOderSeinAuxiliary;verbe sélectionnant soit l'auxiliaire sein ou haben, hincken, segeln
+VEG18;18;VerbSynFeature;de;causativeVerb;causativeVerb;lassen
+VEL10;10;VerbSynFeature;el;medioPassive;medioPassive;
+VEP9;9;VerbSynFeature;pt;inherentEmboraV;inherentEmbora;verbe avec clitique en inhn., s'en aller
+VER0;0;VerbType;;auxiliary;auxiliary;have
+VER1;1;VerbType;;modal;modal;must
+VER2;2;VerbType;;ordinary;ordinary;enjoy
+VER3;3;VerbType;;causative;causative;fr. faire
+VES10;10;VerbSynFeature;es;existentialV;existentialV;brotar (jaillir)
+VES17;17;VerbSynFeature;es;semiAuxiliary;semiAuxiliary;seguir
+VES18;18;VerbSynFeature;es;beV;beV (star i ser);
+VFD9;9;VerbSynFeature;de,en,it;dativePronominal;dativePronominal;sich etwas aneignen
+VFI11;11;VerbSynFeature;it;coniugatoConEssere;coniugatoConEssere;
+VFI17;17;VerbSynFeature;it;inherentLeCl;inherentLeCl;
+VFI18;18;VerbSynFeature;it;essereV;essereV;pour marquer le verbe essere
+VFI19;19;VerbSynFeature;it;inherentCiCl;inherentCiCl;
+VIE0;0;VerbInflection;;irregular;irregular;
+VIE-1;-1;VerbInflection;;noInflexion;noInflexion;
+VIE1;1;VerbInflection;en;V_1;standard;
+VIE-2;-2;VerbInflection;;undefinedInflection;not yet defined;
+VIE2;2;VerbInflection;en;V_2;non doubled cons;
+VIF0;1;VerbInflection;fr;V_1;-"er";chanter, acheter, menacer, 
+VIF1;2;VerbInflection;fr;V_2;-"ir", -"issant";finir, 
+VIF2;3;VerbInflection;fr;V_3;-"ïr", -"ïssant";haïr, 
+VIF3;4;VerbInflection;fr;V_4;-"ir", -"ant";dormir, sentir, 
+VIG1;1;VerbInflection;de;1;[1] regelmässige Verben (spielen, lieben, bremsen);spielen, lieben, bremsen
+VIG11;11;VerbInflection;de;11;[11] regelmässig untrennbar (berechnen, verlieben);berechnen, verlieben
+VIG14;14;VerbInflection;de;14;[14] gemischt untrennbar (bekennen);bekennen
+VIG15;15;VerbInflection;de;15;[15] -ln / -rn untrennbar (zerbröckeln, verärgern);zerbröckeln, verärgern
+VIG17;17;VerbInflection;de;17;[17] Modalverben untrennbar (vermögen, bedürfen);vermögen, bedürfen
+VIG2;2;VerbInflection;de;2;[2] unregelmässig (nehmen, befehlen, schmelzen, Imp. nimm, befiehl, schmilz);nehmen, befehlen, schmelzen, Imp. nimm, befiehl, schmilz
+VIG21;21;VerbInflection;de;21;[21] regelmässig untrennbar mit ge- (*ein-igen, *zu-cken);*ein-igen, *zu-cken
+VIG25;25;VerbInflection;de;25;[25] -ln / -rn untrennbar mit ge- (*an-geln, *an-kern);*an-geln, *an-kern
+VIG3;3;VerbInflection;de;3;[3] unregelmässig (reiten, backen, besitzen, Imp. reite, backe, besitze);reiten, backen, besitzen, Imp. reite, backe, besitze
+VIG4;4;VerbInflection;de;4;[4] gemischt (denken, kennen, bringen);denken, kennen, bringen
+VIG5;5;VerbInflection;de;5;[5] -ln / -rn (mangeln, ärgern);mangeln, ärgern
+VIG6;6;VerbInflection;de;6;[6] -ieren, ohne ge- (trainieren);trainieren
+VIG7;7;VerbInflection;de;7;[7] Modalverben (dürfen, können);dürfen, können
+VIG8;8;VerbInflection;de;8;[8] wie Modalverben, mit Imperativ (wissen, werden, haben);wissen, werden, haben
+VII0;1;VerbInflection;it;V_1;[1] -"are" (amare);amare, telegrafare
+VII1;2;VerbInflection;it;V_2;[2] -"ere" (temere);temere, ricevere
+VII10;11;VerbInflection;it;V_11;[11] -"ere" (accedere);accedere
+VII12;13;VerbInflection;it;V_13;[13] -"ere" (piacere, chiedere);piacere, chiedere
+VII13;14;VerbInflection;it;V_14;[14] -"ire" (dire);dire
+VII14;15;VerbInflection;it;V_15;[15] -"are" (fare);fare
+VII18;19;VerbInflection;it;V_19;[19] -"ere" (cadere, tenere);cadere, tenere
+VII2;3;VerbInflection;it;V_3;[3] -"ire" (sentire);sentire
+VII3;4;VerbInflection;it;V_4;[4] -"ire" (finire);finire
+VII4;5;VerbInflection;it;V_5;[5] -"rre" (contrarre);contrarre
+VII5;6;VerbInflection;it;V_6;[6] -"rre" (ridurre);ridurre
+VII6;7;VerbInflection;it;V_7;[7] -"rre" (porre);porre
+VII7;8;VerbInflection;it;V_8;[8] -"enire" (venire);venire
+VII8;9;VerbInflection;it;V_9;[9] -"ere" (scrivere);scrivere
+VII9;10;VerbInflection;it;V_10;[10] -"ere" (abbattere);abbattere
+VIL1;1;VerbInflection;la;V_1;1. verbes en -are, eg. amo, amas, amare;
+VIL10;15;VerbInflection;la;V_15;15. verbes en -ire, eg. experior, experiri, expertus sum;
+VIL2;2;VerbInflection;la;V_2;2. verbes en -ere, eg. deleo, deles, delere;
+VIL3;3;VerbInflection;la;V_3;3. verbes en -ere, eg. lego, legis, legere;
+VIL4;4;VerbInflection;la;V_4;4. verbes en -ere, eg. capio, capis, capere;
+VIL5;5;VerbInflection;la;V_5;5. verbes en -ire, eg. audio, audis, audire;
+VIL6;11;VerbInflection;la;V_11;11. verbes en -are, eg. imitor, imitari, imitatus sum;
+VIL7;12;VerbInflection;la;V_12;12. verbes en -ere, eg. vereor, vereri, veritus sum;
+VIL8;13;VerbInflection;la;V_13;13. verbes en -ere, eg. loquor, loqui, locutus sum;
+VIL9;14;VerbInflection;la;V_14;14. verbes en -ere, eg. patior, pati, passus, sum;
+VIO1;1;VerbInflection;eo;V_1;[1] inflclass 1;
+VIP1;1;VerbInflection;pt;V_1;[1] verbes en -ar  -- amar, cantar;amar, cantar
+VIP2;2;VerbInflection;pt;V_2;[2] verbes en -er  -- entender, morrer;entender, morrer
+VIP3;3;VerbInflection;pt;V_3;[3] verbes en -ir  --sentir, dormir;sentir, dormir
+VIP4;4;VerbInflection;pt;V_4;[4] verbes en -ar  avec prés., subj., impér. Affirm. Et neg. Irrégulier -- recear,odiar;recear,odiar
+VIP5;5;VerbInflection;pt;V_5;[5] verbes en -ir  avec  prés. et  impér. Affirm. Irrégulier -- distribuir, construir; distribuir, construir
+VIP6;6;VerbInflection;pt;V_6;[6] verbes en -ir  avec présent irrégulier -- traduzir, desluzir; traduzir, desluzir
+VIR1;1;VerbInflection;rm;1;verbes en -ar;cavar, salidar, selavar, sesanflar, s'inquietar
+VIR10;23;VerbInflection;rm;23;verbes en -er (3) multibase (purschein/porscher, cuschein/quescher);purschein/porscher, cuschein/quescher
+VIR11;24;VerbInflection;rm;24;verbes en -ir multibase (durmir/dormel, embellir/embiala);durmir/dormel, embellir/embiala
+VIR12;15;VerbInflection;rm;15;verbes en -er avec -is/-IN et multibase;crescher/creschel/carschin
+VIR13;30;VerbInflection;rm;30;verbes irréguliers (far, esser, haver);far, esser, haver
+VIR2;2;VerbInflection;rm;2;verbes en -er avec accent sur -er;temér
+VIR3;3;VerbInflection;rm;3;verbes en -er avec accent avant -er;vénder, emprénder
+VIR4;4;VerbInflection;rm;4;verbes en -ir;partir, durmir
+VIR5;11;VerbInflection;rm;11;verbes en -ar à infixe esch;gratular/gratulescha
+VIR6;13;VerbInflection;rm;13;verbes en -er avec 4/5 pers -is/-in au lieu de -eis/-ein;cuorer, scriver
+VIR7;14;VerbInflection;rm;14;verbes en -ir à infixe esch;finir/finescha
+VIR8;21;VerbInflection;rm;21;verbes en -ar multibase (cantar/contel, duvrar/drovel);cantar/contel, duvrar/drovel
+VIR9;22;VerbInflection;rm;22;verbes en -er (2) multibase (maner/mognel);maner/mognel
+VIS1;1;VerbInflection;es;V_1;1.-ar, formes complètement régulières, amar;
+VIS11;11;VerbInflection;es;V_11;11.-ar, formes irrégulières : cerrar, cierra ; tentar, tienta;cerrar, cierra; tentar, tienta
+VIS12;12;VerbInflection;es;V_12;12.-er, {-tener}, {-querer}, {-poner}, {-traer};
+VIS13;13;VerbInflection;es;V_13;13.-ir, {-ucir}, {-venir} (conducir, intervenir);conducir, aducir, coproducir, intervenir
+VIS14;14;VerbInflection;es;V_14;14.-er, formes complètement régulières : pretender;pretender, comer, vender.
+VIS15;15;VerbInflection;es;V_15;15.-er, verbes irréguliers, /-olver/ : volver, absolver;volver, absolver.
+VIS2;2;VerbInflection;es;V_2;2.-er, -iendo (ger), comer, comiendo;
+VIS23;23;VerbInflection;es;V_23;23.-er, verbes irréguliers : -ubrir, -scribir;cubrir, escribir
+VIS3;3;VerbInflection;es;V_3;3.-ir, -iendo (ger), sentir, sintiendo ; elegir, elijo;
+VIS4;4;VerbInflection;es;V_4;4.-er, -endo (ger), creer, creyendo ; leer, leyendo;
+VIS5;5;VerbInflection;es;V_5;5.-ir, -endo (ger), teñir, ceñir;
+VIS6;6;VerbInflection;es;V_6;6.-ír, -endo (ger), reír,freír;
+VOI0;0;Voice;;activeV;active;
+VOI1;1;Voice;;passiveV;passive;
+VOI2;2;Voice;;causativeV;causative;
+xxx;29;AdverbFeature;fr;comparatifDavantage;comparatifDavantage;
