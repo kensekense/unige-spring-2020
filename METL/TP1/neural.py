@@ -2,7 +2,10 @@ import numpy as np
 import random
 
 # TODO: import softmax, sigmoid and gradcheck_naive from your external
-# python modules 
+# python modules
+from softmax import softmax
+from sigmoid import sigmoid, sigmoid_grad
+from gradcheck import gradcheck_naive
 
 
 def forward_backward_prop(data, labels, params, dimensions):
@@ -26,20 +29,20 @@ def forward_backward_prop(data, labels, params, dimensions):
     b2 = np.reshape(params[ofs:ofs + Dy], (1, Dy))
 
     ### YOUR CODE HERE: forward propagation, computing h, y, cost
-    # h = ?
-    # y = ?
-    # cost = ?
+    h = sigmoid(np.matmul(data,W1)+b1)
+    y = softmax(np.matmul(h,W2)+b2)
+    cost = -1*np.sum(labels*np.log(y)) #cross entropy loss?
 
     ### END YOUR CODE
 
     ### YOUR CODE HERE: backward propagation, computing the gradient
-    # grady = ?
-    # gradW2 = ?
-    # gradb2 = ?
-    # gradh = ?
-    # gradz1 = ?
-    # gradW1 = ?
-    # gradb1 = ?
+    grady = (y-labels)
+    gradW2 = np.matmul(h.T,grady)
+    gradb2 = np.sum(grady, axis=0)
+    gradh = np.matmul(grady,W2.T)
+    gradz1 = np.multiply(sigmoid_grad(h),gradh)
+    gradW1 = np.matmul(data.T, gradz1)
+    gradb1 = np.sum(gradz1, axis=0)
 
     ### END YOUR CODE
 

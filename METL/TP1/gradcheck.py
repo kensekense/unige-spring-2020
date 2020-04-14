@@ -25,7 +25,15 @@ def gradcheck_naive(f, x):
         ### possible to test cost functions with built in randomness later
 
         ### YOUR CODE HERE:
-
+        old = x[ix]
+        x[ix] = old + h
+        random.setstate(rndstate)
+        fpos = f(x)[0]
+        x[ix] = old - h
+        random.setstate(rndstate)
+        fneg = f(x)[0]
+        x[ix] = old
+        numgrad = (fpos-fneg)/(2*h)
 
         # Compare gradients
         reldiff = abs(numgrad - grad[ix]) / max(1, abs(numgrad), abs(grad[ix]))
