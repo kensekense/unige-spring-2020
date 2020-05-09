@@ -54,11 +54,7 @@ It could be recommended to alter the number of threads used if your device can h
 
 
 ## Architecture
-1. The architecture is as follows:
-split into pre-processing and training
-text -> preprocessing -> batch of tensors -> training -> word2vec vector representation ...
-
-# TODO: diagram and more details here on input output
+1. The architecture is as follows: split into pre-processing and training. Text -> preprocessing -> batch of tensors -> training -> word2vec vector representation.
 
 2. The benefits of this architecture compared to the original tensorflow based estimator APIs. This high-level model abstraction allows you to run models locally using CPU/GPU without rewriting the models, and gives you a training loop that allows you to control when to load data, handle errors, create checkpoints, and have summaries easier.
 
@@ -75,8 +71,6 @@ text -> preprocessing -> batch of tensors -> training -> word2vec vector represe
 4. In this case, we would take the pre-processing task and give it to the CPU, and training to the GPU. We would then want to visualize the pre-processing stats for the CPU (which are not available in tensorboard) to ensure that pre-processing is not bottlenecking and causing the GPU to wait, which would effectively kill the efficiency and reason we parallelized.
 
 ## Implementation
-2. Negative sampling ...
-
-# TODO: check how nce_loss is implemented in the TF documentation. There is a fundamental difference compared to the original W2V paper.
+2. The original Word2vec implementation suggests using negative sampling, whereas we randomly choose a certain number of negative samples in order to update their weights. Whereas the implementation in TF uses Noise Constrastive Estimation, which sets up the problem in terms of sampling from a true distribution and a noise distribution (which we define). This allows us to draw the number of samples we want and to avoid having to deal with the entire vocabulary (which is big). The difference is that in NCE the probability that the sample comes from the noise-distribution is set based on the estimation done by a ratio of the sample coming from the true-distribution over the noise-distribution.
 
 3. Our structure of the TF code requires the usage of higher order functions to wrap-around and provide information.
