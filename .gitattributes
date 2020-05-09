@@ -1,5 +1,1 @@
 C:/Users/liveo/Desktop/playground/unige-spring-2020/METL/TP4/enwiki.20190120.sample10.0.balanced filter=lfs diff=lfs merge=lfs -text
-*.balanced filter=lfs diff=lfs merge=lfs -text
-*.txt filter=lfs diff=lfs merge=lfs -text
-METL/TP4 filter=lfs diff=lfs merge=lfs -text
-METL/TP4/** filter=lfs diff=lfs merge=lfs -text
