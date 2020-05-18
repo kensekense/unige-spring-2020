@@ -54,7 +54,7 @@ It could be recommended to alter the number of threads used if your device can h
 
 
 ## Architecture
-1. The architecture is as follows: split into pre-processing and training. Text -> preprocessing -> batch of tensors -> training -> word2vec vector representation.
+1. ![architecture](architecture.jpg)
 
 2. The benefits of this architecture compared to the original tensorflow based estimator APIs. This high-level model abstraction allows you to run models locally using CPU/GPU without rewriting the models, and gives you a training loop that allows you to control when to load data, handle errors, create checkpoints, and have summaries easier.
 

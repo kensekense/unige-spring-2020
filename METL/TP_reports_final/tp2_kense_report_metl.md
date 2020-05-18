@@ -28,11 +28,9 @@ For a vocab of |V| words, complete randomness would mean all have the same proba
 
 $\frac{\partial J^{(t)}}{\partial U}=\left(h^{(t)}\right)^{\top}(\hat{y}-y)$
 
-Where $h^{(t)}$ is the hidden-layer output at time t, and $\hat{y}-y$ is our cost function derivative.
+Where $h^{(t)}$ is the hidden-layer output at time t, and $\hat{y}-y$ is our cost function derivative. Since the value is a partial derivative, the derivative of $h^{(t)}U + b_{2}$ with respect to U would be $h^{(t)}$ due to the constant multiple rule of derivatives.
 
-$\frac{\partial J^{(t)}}{\partial h^{(t)}}=(\hat{y}-y) U^{T}$ Since U is the output layer matrix.
-
-$\frac{\partial J^{(t)}}{\partial b_{2}}=(\hat{y}-y)$ The value for the bias "flattens out" and we don't have any other values since the bias is added at the last layer.
+$\frac{\partial J^{(t)}}{\partial b_{2}}=(\hat{y}-y)$  Same from above, since the value is a partial derivative, the derivative of $h^{(t)}U + b_{2}$ with respect to $b_{2}$ would just be 1, due to the constant multiple rule of derivatives.
 
 $\left.\frac{\partial J^{(t)}}{\partial b_{i}}\right|_{t}=\frac{\partial J^{(t)}}{\partial h^{(t)}} \odot \theta^{\prime}\left(h^{(t-1)} H+e^{(t)} I+b\right)$
 
@@ -52,7 +50,7 @@ $\frac{\partial J^{(t)}}{\partial h^{(t-1)}}=\left.H^{T} \frac{\partial J^{(t)}}
 
 3. Draw an unrolled RNN and derive gradients.
 
-![unrolled](./TP2/unrolled.PNG)
+![unrolled](./unrolled.PNG)
 
 $\delta^{(t-1)}=\frac{\partial J^{(t)}}{\partial h^{(t-1)}}$ is the error term.
 
